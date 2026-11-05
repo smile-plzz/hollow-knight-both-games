@@ -39,3 +39,12 @@
 - Completed 5-seat independent peer review (`21_PEER_REVIEW.md`) including Devil's Advocate challenge.
 - Completed academic integrity audit and revision report (`22_REVISION_AND_INTEGRITY_REPORT.md`) passing Lu's (2026) 7-mode checklist.
 - Compiled master process record (`23_PROCESS_RECORD.md`) including Vim buffer navigation tutorial.
+
+## [2026-11-05T08:26:00+06:00] - Exhaustive Character Origins, Build-Up Dossiers & Deep Lore Expansion Complete
+- Upgraded `06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md` into an encyclopedic 43-character master compendium across 8 societal cohorts, ensuring every named figure receives full 5-dimension analysis (Origin, Build-up, Psychology, Mechanics, Fate).
+- Upgraded `11_SILKSONG_CHARACTER_ANALYSIS.md` into an encyclopedic 32-character master compendium across 6 cohorts, detailing all companions, clergy, merchants, bosses, and corrupted figures.
+- Deepened `05_HOLLOW_KNIGHT_NARRATIVE.md` with pre-historical ancient Void civilization, Moth Tribe apostasy, Soul Sanctum vs. Abyss intellectual schism, and the Mantis border truce.
+- Deepened `10_SILKSONG_NARRATIVE.md` with the Great Weaver Migration and ideological schism, Citadel acoustic political theology (bell-helmets, somatic entrainment, spatial sound barriers), and Act III Subterranean Void Lake contamination.
+- Total research suite expanded to 55,867 words across 27 markdown documents.
+- Produced user walkthrough and verification report artifact `walkthrough.md`.
+

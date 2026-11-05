@@ -5,6 +5,14 @@ All notable changes to this academic research project will be documented in this
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Semantic Versioning.
 
+## [1.1.0] - 2026-11-05
+### Added
+- Exhaustive 43-character dossier for *Hollow Knight* covering every named NPC, Great Knight, merchant, Dreamer, and Warrior Dream with 5-dimension origin and build-up profiles (`06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md`).
+- Exhaustive 32-character dossier for *Hollow Knight: Silksong* covering royal sovereigns, Citadel clergy, wandering companions, artisans, and Void-corrupted beings (`11_SILKSONG_CHARACTER_ANALYSIS.md`).
+- Deepened cosmological and narrative history for Hallownest (`05_HOLLOW_KNIGHT_NARRATIVE.md`) featuring ancient Void worship, Moth Tribe apostasy, and the Mantis treaty.
+- Deepened cosmological and narrative history for Pharloom (`10_SILKSONG_NARRATIVE.md`) detailing the Great Weaver Migration to Deepnest, Citadel acoustic surveillance architecture, bell-helmets, and Act III Subterranean Void Lake contamination.
+- Comprehensive walkthrough and verification artifact (`walkthrough.md`).
+
 ## [1.0.0] - 2026-11-05
 ### Added
 - Complete research suite comprising 24 core academic deliverables.
