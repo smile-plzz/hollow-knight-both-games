@@ -91,3 +91,4 @@ $$\text{Comparative Civilizational Hermeneutics} = \mathcal{F}(\text{Spatial Top
 3. **Political Theology & Bare Life:** Interrogating the ideological justifications for sacrifice (the Pale King's Omelas bargain vs. Grand Mother Silk's devotional extraction).
 4. **Vital Ecology & Sympoiesis:** Grounding insect sociality in real entomological dynamics (eusocial superorganisms vs. solitary predation; fungal parasitism vs. silk weaving) to understand how nonhuman worlds negotiate coexistence.
 5. **Ergodic Complicity & Agency:** Analyzing how the player’s embodied persistence through crushing difficulty, spatial disorientation, and multiple branching endings transforms passive aesthetic consumption into active ethical responsibility.
+

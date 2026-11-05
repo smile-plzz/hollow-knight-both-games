@@ -128,3 +128,4 @@ The player is now confronted with the ultimate interpretive and ethical dilemma:
 - **Ascend through worship (Godmaster):** Attune the mind through Godhome to become the apocalyptic Void Entity, consuming both Radiance and the higher realms [Tier 1].
 
 Thus, the player’s journey mirrors a progression from naive fairy-tale exploration, through archaeological mourning, to the horrifying realization of systemic state terror, culminating in an active ethical judgment on how to dismantle an empire’s sacred lie.
+

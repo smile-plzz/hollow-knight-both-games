@@ -76,3 +76,4 @@ flowchart TD
 | **Fate of Hallownest** | Infection delayed; stasis continues | Eternal double tomb; no escape | Infection eradicated; kingdom at peace | Consumed by rampaging Void tendrils | Purified of both Infection and Void | Age passes; fungal spore departs |
 | **Omelas Position** | Accepts the bargain; replaces child | Aggravates bargain; locks observer inside | Destroys the cellar and the utopia | The cellar devours the city | Transcends the bargain through grace | Laughs at the city; flies away |
 | **Canon Status** | Confirmed alternate canonical path | Confirmed alternate canonical path | Primary base-game resolution | Canonical high-difficulty resolution | Canonical high-difficulty resolution | Canonical post-credits comic stinger |
+

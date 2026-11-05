@@ -110,3 +110,4 @@
 | **Mantis Lords** | Triad rulers of Mantis Village | Defend territory; resist the Infection | Disciplined, honorable, fiercely independent | Sovereign guardians against Deepnest beasts | Rigorous combat test $\to$ Respected allies | Bow respectfully; maintain tribal rule | Tier 1 |
 | **Traitor Lord** | Exiled 4th Mantis Lord | Gain power from infection; avenge daughter | Wrathful, corrupted, power-hungry | Mantis faction that embraced the infection | Hostile boss blocking White Lady | Slain by Knight and Cloth | Tier 1 |
 | **The Collector** | Void entity in royal glass spire | "Preserve" and protect grubs in jars | Deranged, obsessively protective | Royal experiment gone mad in isolation | Creepy boss encounter | Slain by Knight; grubs liberated | Tier 1 |
+

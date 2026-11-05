@@ -67,3 +67,4 @@ flowchart TD
 | **Fate of Pharloom** | Preserved in theocratic stasis | Liberated from holy servitude | Smothered in monstrous web | Citadel obliterated into ruins | Age passes; world continues |
 | **Philosophical Core** | The trap of sovereign succession | Abolition of the divine machine | The grotesque corruption of hubris | Cosmic revolution via annihilation | Absurdist ecological persistence |
 | **Canon Status** | Confirmed alternate canonical path | Confirmed baseline heroic path | Confirmed bad/tragic outcome | Confirmed high-difficulty cosmic path | Canonical post-credits easter egg |
+

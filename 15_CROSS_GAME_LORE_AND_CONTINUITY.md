@@ -106,3 +106,4 @@ Team Cherry has consistently maintained an **inclusive, canon-agnostic design ph
 | **Precise Time Elapsed Between Games** | Faded condition of Hallownest relics; Hornet's combat memories | Estimated several decades or centuries of insect time | **Tier 3 (Speculative Theory)** | Could be mere weeks/months, or an entire historical epoch |
 | **Fate of Hallownest during Silksong** | Hornet's melancholic retrospection; lack of direct updates | Hallownest remains a quiet, peaceful graveyard of memory | **Tier 2 (Strongly Supported)** | Hallownest was repopulated by new insect kingdoms (Unsubstantiated) |
 | **Origin of Grand Mother Silk vs. Wyrms** | Cosmic mythology, absence of molting shells in Pharloom | Grand Mother Silk belongs to an ancient, pre-Wyrm arachnid pantheon | **Tier 2 (Strongly Supported)** | Grand Mother Silk is a mutated Wyrm (No supporting textual evidence) |
+

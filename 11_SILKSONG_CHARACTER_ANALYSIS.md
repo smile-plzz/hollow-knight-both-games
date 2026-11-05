@@ -84,3 +84,4 @@
 | **Cogwork Dancers** | Clockwork mechanical automatons | Patrol the Citadel ballroom; eliminate intruders | Graceful, unfeeling, automated | Manifestation of silk-driven mechanization | Acrobatic twin boss battle | Smashed and disassembled by Hornet | Tier 1 |
 | **Flea Master** | Nomadic carnival leader | Reassemble his scattered flea family | Jovial, pipe-smoking, paternal | Centerpiece of the communal rescue loop | Benefactor rewarding player rescue | Presides over joyful carnival | Tier 1 |
 | **Forge Daughter** | Giant crustacean blacksmith | Craft masterwork tools; honor metal | Gruff, industrious, maternal | Artisan upgrading needles and red tools | Commercial and mechanical artisan | Continues forging with pride | Tier 1 |
+

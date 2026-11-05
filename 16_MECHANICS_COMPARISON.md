@@ -106,3 +106,4 @@ graph TD
 | **Spatial Traversal** | Stag Stations (Domestic animal transit) & Dream Gate | Bellways (Colossal bell transit lines) & Couriers | Feudal postal network vs. Industrial theocratic infrastructure |
 | **Map Navigation** | Cornifer's hand-drawn maps; Quill; Compass charm | Shakra's surveyed maps; Compass integrated into Crests | Fragile exploratory ignorance vs. Professional tactical surveying |
 | **Difficulty Curve** | Punishing, deliberate, attrition-based survival | Lightning-fast, twitch-reflex, highly aggressive combat | Mastery of patience vs. Mastery of kinetic momentum |
+

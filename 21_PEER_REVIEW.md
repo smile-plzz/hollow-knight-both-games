@@ -88,3 +88,4 @@ The review panel unanimously commends the manuscript for its extraordinary scope
 ## 3. Final Editorial Decision
 **Decision:** **ACCEPT WITH MINOR REVISIONS**  
 The manuscript represents a landmark contribution to game studies, setting a new benchmark for interdisciplinary comparative video game research.
+

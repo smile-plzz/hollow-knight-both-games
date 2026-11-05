@@ -34,3 +34,4 @@ This project investigates how Team Cherry constructs meaningful fictional insect
 
 ## Setup and Usage
 The workspace is maintained under Git version control. Files are written in GitHub Flavored Markdown and standard CSV/BibTeX formats.
+

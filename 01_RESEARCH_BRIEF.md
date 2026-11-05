@@ -95,3 +95,4 @@ graph TD
 3. **Comparative Ludic Analysis:** Formal comparison of core systems (Nail vs. Needle; Soul casting/focus vs. Silk weaving/binding; Charms vs. Crests/Tools).
 4. **Literature Synthesis:** Triangulation of game phenomena against peer-reviewed academic game studies, ecocriticism, political philosophy, and biological scholarship.
 5. **Canon Tiering & Falsification:** Strict adherence to a 3-tier certainty register to prevent fan speculation from distorting empirical claims.
+

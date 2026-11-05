@@ -124,3 +124,4 @@ flowchart LR
 | **The Grimm Troupe** | Cyclical Ritual, Performance & Flame | Troupe Master Grimm, Nightmare King Grimm | Grimmchild, Carefree Melody, Unbreakable Charms | Establishes the Nightmare Realm as cosmic counterweight to dreams | Parasitic immortality through performance vs. mortal liberation through banishment |
 | **Lifeblood** | Eusocial Duty & Taboo Vitality | Hive Knight | Hiveblood charm, Lifeblood Core, custom map pins | Integrates the Bee Tribe; introduces heretical blue life-force | Sovereign suppression of alternative biological energies |
 | **Godmaster** | Theocratic Deification & Apotheosis | Pure Vessel, Absolute Radiance, Sly, Sisters of Battle | Godtuner, Weathered Mask, Void Idol | Reframes bosses into divine pantheons; unlocks 2 new endings | The catastrophic consequence of worshipping power: the Void devours its altar |
+

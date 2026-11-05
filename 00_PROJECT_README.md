@@ -81,3 +81,4 @@ To preserve academic integrity, all narrative, historical, and ludic evidence is
 1. **Confirmed Canon (Tier 1):** Directly expressed in in-game text, developer dialogue, official instruction material, or explicit developer interviews (e.g., Team Cherry blogs, ACMI interviews).
 2. **Strongly Supported Interpretation (Tier 2):** Inferences derived from converging, independent environmental, mechanical, and textual clues without direct contradiction.
 3. **Speculative Theory (Tier 3):** Plausible hypotheses addressing unresolved ambiguities (e.g., precise chronological duration between games, the complete cosmic origins of the Void). Speculative theories are explicitly designated and never presented as confirmed fact.
+

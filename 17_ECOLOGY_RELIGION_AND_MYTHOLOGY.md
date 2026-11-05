@@ -109,3 +109,4 @@ graph TD
 | **Ideological Mechanism** | The Promise of Eternal Mind and Intellectual Order | The Sacred Song and the Promise of Pilgrimage Transfiguration | Wysocki (2026) Liturgical Hegemony |
 | **The Sacrificial Mechanism** | The Omelas bargain: Mass slaughter of infant Vessels | The Pilgrimage siphon: Continuous somatic extraction of workers | Grunberg (2024); Agamben (1998) |
 | **Communal Counter-Ethic** | Quiet companionship: Quirrel, Elderbug, Iselda, Myla | Active mutual aid: Wishes system, Flea Caravan, Sherma | Haraway (2016) Sympoietic Kinship |
+

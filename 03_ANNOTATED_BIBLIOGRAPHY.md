@@ -144,3 +144,4 @@
 
 ### Nintendo Australia. (2018). *The metamorphosis of Hollow Knight with Team Cherry: Aussie developer interview*. Nintendo News & Articles.
 - **Annotation:** Primary interview exploring the mechanical influences of classic platformers (*Zelda II*, *Faxanadu*, *Super Metroid*), the balance of high difficulty with atmospheric wonder, and the collaborative iteration of nail combat and charm builds.
+

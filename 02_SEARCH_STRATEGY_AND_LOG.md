@@ -94,3 +94,4 @@ Searches were conducted across primary academic indexing engines, open-access re
   - Classical Foundational Texts (Philosophy, Narratology, Ecology): 7
   - Primary Developer Archives & High-Integrity Interviews: 7
 - **Verification Integrity:** All DOI strings, journal volumes, page ranges, and author affiliations cross-checked against publisher registers (SAGE, Springer, Taylor & Francis, OpenAlex, CrossRef, Zenodo, and official institutional websites).
+

@@ -25,3 +25,4 @@
 - Expansion status verification: *Sea of Sorrow* verified as announced Dec 15, 2025 for 2026 release, but remains officially unreleased as of Nov 5, 2026. Content is analyzed based strictly on confirmed scope without inventing unreleased gameplay details.
 - Canon Integrity: Strict separation of developer-confirmed lore from speculative fandom theories.
 - Interdisciplinary rigor: Grounding insect behavior and fungal biology in authentic entomological/mycological principles without confusing fictional metaphor with literal biology.
+
