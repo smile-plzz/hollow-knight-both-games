@@ -5,9 +5,20 @@ All notable changes to this academic research project will be documented in this
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Semantic Versioning.
 
-## [Unreleased]
+## [1.0.0] - 2026-11-05
 ### Added
-- Project initialization and mandatory research infrastructure setup.
-- Initial project tracking templates (`README.md`, `context.md`, `dev-log.md`, `CHANGELOG.md`).
-- Environment audit and skill version cataloging from `academic-research-skills` (SHA: `530659d983c2f4aa584ba3f2df224df08d90b264`).
-- Verification of *Sea of Sorrow* DLC status and literature foundation DOIs.
+- Complete research suite comprising 24 core academic deliverables.
+- Primary and secondary literature corpus with 38 verified academic references (APA 7th edition and BibTeX `references.bib`).
+- Dual-track narrative reconstructions for *Hollow Knight* (2017) and *Hollow Knight: Silksong* (2025).
+- Master character censuses, psychological profiles, and matrices covering all major personages across both kingdoms.
+- Exhaustive spatial and architectural matrices for 23 regions of Hallownest and 22 regions of Pharloom.
+- Comprehensive boss encounter catalogues, combat choreography analyses, and content pack evaluations (*Hidden Dreams*, *The Grimm Troupe*, *Lifeblood*, *Godmaster*).
+- Granular philosophical analyses of all 6 *Hollow Knight* endings and all 5 *Silksong* endings, grounding civilizational sacrifice in Alex Grunberg's (2024) Omelas framework and Giorgio Agamben's (1998) *homo sacer*.
+- Comparative mechanics analysis contrasting Nail vs. Needle, Soul vs. Silk, Charms vs. Crests/Tools, and the procedural rhetoric of healing.
+- Thematic cross-synthesis connecting entomological science (Wilson & Hölldobler eusociality, spider silk biopolymers) with political theology (Rudolf Otto, Mircea Eliade) and vital materialism (Jane Bennett, Donna Haraway).
+- Sociometric Mermaid network diagrams modeling intra-kingdom and cross-kingdom character relationships.
+- Structured Claim and Evidence Matrix (`19_CLAIM_AND_EVIDENCE_MATRIX.csv`) with 3-tier canon certainty designations.
+- Full 11,841-word academic research paper (`20_FULL_RESEARCH_PAPER.md`, 11,136 body words excluding references).
+- 5-seat independent peer review report (`21_PEER_REVIEW.md`) including Devil's Advocate contrarian challenge.
+- Academic integrity verification and revision report (`22_REVISION_AND_INTEGRITY_REPORT.md`) passing Lu's (2026) 7-mode AI failure audit.
+- Master academic process record (`23_PROCESS_RECORD.md`) with collaboration accounting and Vim large-file navigation instruction.
