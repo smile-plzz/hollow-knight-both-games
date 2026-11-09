@@ -1,7 +1,7 @@
 # Reference Verification Dossier: caracciolo2026playing
 
 - **Citation Key:** `caracciolo2026playing`
-- **Claimed Citation:** Marco Caracciolo. (2026). Playing a Game of Worlds: World Building and Its Disruptions in Video Games. *Journal of Gaming & Virtual Worlds*, 18(1), 3–19.
+- **Claimed Citation:** Marco Caracciolo. (2026). Playing a Game of Worlds: World Building and Its Disruptions in Video Games. *Journal of Gaming & Virtual Worlds*, 18(1), 3 to 19.
 - **Verification Status:** **VERIFIED**
 - **Verification Date:** 2026-11-09
 - **Verified Metadata:**
@@ -9,7 +9,7 @@
   - Title: ‘Playing a game of worlds’: World building and its disruptions in video games
   - Journal: *Journal of Gaming & Virtual Worlds*
   - Volume & Issue: Vol. 18, No. 1 (March 2026)
-  - Pages: 3–19
+  - Pages: 3 to 19
   - DOI: `10.1386/jgvw_00139_1`
   - URL: `https://intellectdiscover.com/content/journals/10.1386/jgvw_00139_1`
 

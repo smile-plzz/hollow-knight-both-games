@@ -1,10 +1,10 @@
 # Walkthrough and Deliverable Record: Character Origins, Build-Up Dossiers, and Deep Lore Expansion
 
 - **Research Object:** *Hollow Knight* (Team Cherry, 2017) and *Hollow Knight: Silksong* (Team Cherry, 2025)
-- **Suite Location:** [hollow-knight-both-games](file:///C:/Users/ismai/.gemini/antigravity/scratch/research/hollow-knight-both-games/)
+- **Suite Location:** [hollow-knight-both-games](./)
 - **Status:** Initial AI-assisted research drafting (sources and claims currently under verification)
 - **Total Corpus Size:** 55,867 words across 27 interconnected research files
-- **Full Manuscript Length:** 11,841 words ([20_FULL_RESEARCH_PAPER.md](file:///C:/Users/ismai/.gemini/antigravity/scratch/research/hollow-knight-both-games/20_FULL_RESEARCH_PAPER.md))
+- **Full Manuscript Length:** 11,841 words ([20_FULL_RESEARCH_PAPER.md](./20_FULL_RESEARCH_PAPER.md))
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)
 
 ---
@@ -42,7 +42,7 @@ pie title Total Character Profiles Across Suite (75 Total)
 ## 2. Character Compendium Breakdown
 
 ### 2.1 Hallownest: 43 Character Profiles Across 7 Major Cohorts
-Documented in: [06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md](file:///C:/Users/ismai/.gemini/antigravity/scratch/research/hollow-knight-both-games/06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md) (3,819 words)
+Documented in: [06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md](./06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md) (3,819 words)
 
 | Cohort | Characters Analyzed | Primary Analytical Focus |
 |---|---|---|
@@ -58,7 +58,7 @@ Documented in: [06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md](file:///C:/Users/ismai/.
 ---
 
 ### 2.2 Pharloom: 32 Character Profiles Across 6 Major Cohorts
-Documented in: [11_SILKSONG_CHARACTER_ANALYSIS.md](file:///C:/Users/ismai/.gemini/antigravity/scratch/research/hollow-knight-both-games/11_SILKSONG_CHARACTER_ANALYSIS.md) (3,140 words)
+Documented in: [11_SILKSONG_CHARACTER_ANALYSIS.md](./11_SILKSONG_CHARACTER_ANALYSIS.md) (3,140 words)
 
 | Cohort | Characters Analyzed | Primary Analytical Focus |
 |---|---|---|
@@ -74,14 +74,14 @@ Documented in: [11_SILKSONG_CHARACTER_ANALYSIS.md](file:///C:/Users/ismai/.gemin
 ## 3. Deep Lore and Cosmological Frameworks
 
 ### 3.1 Hallownest: Expanded Historical Framework
-Documented in: [05_HOLLOW_KNIGHT_NARRATIVE.md](file:///C:/Users/ismai/.gemini/antigravity/scratch/research/hollow-knight-both-games/05_HOLLOW_KNIGHT_NARRATIVE.md) (3,017 words)
+Documented in: [05_HOLLOW_KNIGHT_NARRATIVE.md](./05_HOLLOW_KNIGHT_NARRATIVE.md) (3,017 words)
 - **Ancient Void Civilization:** The pre-Wyrm black statues, Soul totems, and the ancient cast that worshipped darkness before the Radiance or the Pale King.
 - **Moth Tribe Apostasy:** The historical abandonment of the Radiance when the Pale King’s intellect illuminated Hallownest, driving the forgotten sun goddess into psychic vengeance.
 - **Soul Sanctum vs. The Abyss:** The intellectual and ethical divergence between the City scholars (who vivisected living citizens to harness Soul) and the Pale King (who turned to the primordial Void to engineer empty vessels).
 - **The Mantis Truce:** The sovereign negotiation preserving Mantis autonomy in exchange for guarding Hallownest’s southern borders against Deepnest.
 
 ### 3.2 Pharloom: Expanded Historical Framework and The Great Migration
-Documented in: [10_SILKSONG_NARRATIVE.md](file:///C:/Users/ismai/.gemini/antigravity/scratch/research/hollow-knight-both-games/10_SILKSONG_NARRATIVE.md) (3,234 words)
+Documented in: [10_SILKSONG_NARRATIVE.md](./10_SILKSONG_NARRATIVE.md) (3,234 words)
 - **The Great Weaver Migration:** The philosophical schism between Grand Mother Silk's centralized "Loom of Immortality" and the dissident Weavers who refused the "choral chime," fleeing across continental badlands to establish Deepnest.
 - **Acoustic Political Theology:** Detailed breakdown of Pharloom's acoustic architecture: how pipe organs, resonant stone chambers, and brass carillons produce somatic entrainment, turning sound into an invisible totalitarian wall.
 - **Acoustic Helmets of the Clergy:** The functional role of bell-helmets as acoustic tuning-fork filters that amplify divine frequencies while deafening the clergy to the cries of the lower castes.

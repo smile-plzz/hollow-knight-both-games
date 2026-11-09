@@ -1,7 +1,7 @@
 # Reference Verification Dossier: grunberg2024ones
 
 - **Citation Key:** `grunberg2024ones`
-- **Claimed Citation:** Alex Grunberg. (2024). The Ones Who Walk Away from Hallownest: Hollow Knight's Radical Response to the Omelas Dilemma. *Games and Culture*, 19(4), 433–448.
+- **Claimed Citation:** Alex Grunberg. (2024). The Ones Who Walk Away from Hallownest: Hollow Knight's Radical Response to the Omelas Dilemma. *Games and Culture*, 19(4), 433 to 448.
 - **Verification Status:** **VERIFIED**
 - **Verification Date:** 2026-11-09
 - **Verified Metadata:**
@@ -9,7 +9,7 @@
   - Title: The Ones Who Walk Away from Hallownest: Hollow Knight's Radical Response to the Omelas Dilemma
   - Journal: *Games and Culture*
   - Volume & Issue: Vol. 19, No. 4 (2024)
-  - Pages: 433–448
+  - Pages: 433 to 448
   - DOI: `10.1177/15554120231166769`
   - URL: `https://journals.sagepub.com/doi/10.1177/15554120231166769`
 

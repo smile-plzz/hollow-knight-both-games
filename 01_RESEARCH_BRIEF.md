@@ -3,7 +3,7 @@
 
 - **Principal Investigators:** Lead Game Studies Researcher & Antigravity Collaborative Academic Team
 - **Disciplinary Anchors:** Game Studies, Environmental Humanities, Ecocriticism, Philosophy, Religious Studies, Comparative Mythology, Arthropod Biology
-- **Target Manuscript Length:** 10,000–13,000 words
+- **Target Manuscript Length:** 10,000 to 13,000 words
 - **Methodology:** Comparative Qualitative Case Study, Spatial Narratology, Ludonarrative Analysis, Hermeneutic Close Reading
 - **Reference Standard:** APA 7th Edition
 

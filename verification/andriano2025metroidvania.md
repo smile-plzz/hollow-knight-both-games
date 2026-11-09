@@ -1,7 +1,7 @@
 # Reference Verification Dossier: andriano2025metroidvania
 
 - **Citation Key:** `andriano2025metroidvania`
-- **Claimed Citation:** Angelo Maria Andriano and Marco Caracciolo. (2025). Metroidvania Ecologies: Exploration and the Environmental Imagination in Hollow Knight and Rain World. *Eludamos: Journal for Computer Game Culture*, 16(2), 9–28.
+- **Claimed Citation:** Angelo Maria Andriano and Marco Caracciolo. (2025). Metroidvania Ecologies: Exploration and the Environmental Imagination in Hollow Knight and Rain World. *Eludamos: Journal for Computer Game Culture*, 16(2), 9 to 28.
 - **Verification Status:** **VERIFIED**
 - **Verification Date:** 2026-11-09
 - **Verified Metadata:**
@@ -9,7 +9,7 @@
   - Title: Metroidvania ecologies: Exploration and the environmental imagination in *Hollow Knight* and *Rain World*
   - Journal: *Eludamos: Journal for Computer Game Culture*
   - Volume & Issue: Vol. 16, No. 2 (2025)
-  - Pages: 9–28
+  - Pages: 9 to 28
   - DOI: `10.7557/ejcgc.v16i2.7958`
   - URL: `https://septentrio.uit.no/index.php/eludamos/article/view/7958`
 

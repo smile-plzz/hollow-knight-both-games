@@ -10,6 +10,7 @@
   - Interviewees: Ari Gibson and William Pellen (Team Cherry)
   - Year: 2018
   - Format: Official Developer Feature Interview
+  - URL: https://www.nintendo.com/au/news-and-articles/the-metamorphosis-of-hollow-knight-with-team-cherry-aussie-developer-interview/
 
 ## 1. Summary of Source Content and Argument
 The feature traces the design and commercial evolution of *Hollow Knight* following its release on Nintendo Switch. Gibson and Pellen discuss the transition from tight game-jam experiments into an expansive labyrinth, their deliberate philosophy of non-intrusive storytelling, and how player agency shapes the discovery of Hallownest's history.

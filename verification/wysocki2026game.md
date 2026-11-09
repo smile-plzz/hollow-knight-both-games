@@ -1,7 +1,7 @@
 # Reference Verification Dossier: wysocki2026game
 
 - **Citation Key:** `wysocki2026game`
-- **Claimed Citation:** Jan Wysocki. (2026). Game Review: Hollow Knight: Silksong (Team Cherry, 2025). *Journal for Religion, Film and Media*, 12(1), 161–164.
+- **Claimed Citation:** Jan Wysocki. (2026). Game Review: Hollow Knight: Silksong (Team Cherry, 2025). *Journal for Religion, Film and Media*, 12(1), 161 to 164.
 - **Verification Status:** **VERIFIED**
 - **Verification Date:** 2026-11-09
 - **Verified Metadata:**
@@ -9,7 +9,7 @@
   - Title: Game Review: *Hollow Knight: Silksong* (Team Cherry, 2025)
   - Journal: *Journal for Religion, Film and Media* (JRFM)
   - Volume & Issue: Vol. 12, No. 1 (2026), Special Issue "Death, Loss and Mourning in Film and Media"
-  - Pages: 161–164
+  - Pages: 161 to 164
   - DOI: `10.25364/05.12:2026.1.11`
   - URL: `https://jrfm.eu/index.php/ojs_jrfm/article/view/539`
 

@@ -9,17 +9,17 @@
 
 ## 1. Direct Peer-Reviewed Studies on *Hollow Knight* and *Silksong*
 
-### Grunberg, A. (2024). The ones who walk away from Hallownest: Hollow Knight's radical response to the Omelas dilemma. *Games and Culture*, 19(4), 433–448. https://doi.org/10.1177/15554120231166769
+### Grunberg, A. (2024). The ones who walk away from Hallownest: Hollow Knight's radical response to the Omelas dilemma. *Games and Culture*, 19(4), 433 to 448. https://doi.org/10.1177/15554120231166769
 - **Disciplinary Focus:** Game Studies, Moral Philosophy, Utilitarian Ethics.
 - **Methodology & Theoretical Framework:** Hermeneutic ludonarrative critique connecting Team Cherry's narrative architecture to Ursula K. Le Guin's parable *The Ones Who Walk Away from Omelas* (1973).
 - **Core Findings & Analytical Relevance:** Grunberg demonstrates that Hallownest's sovereign order (engineered by the Pale King) rests entirely upon a utilitarian contract of child sacrifice: sealing the infection within an agonizing, mutilated vessel (the Hollow Knight). While Le Guin's citizens face a binary moral impasse (either accept the social bargain or passively walk away into exile), *Hollow Knight*'s procedural interactivity provides the player with radical agency. The game's branching progression allows the player to reject mere substitution (Ending 1: The Hollow Knight), confront the systemic source of divine corruption (Ending 3: Dream No More), or harness the primordial Void to tear down the entire sacrificial architecture (Ending 4: Embrace the Void). Serves as a primary philosophical foundation for our ethical analysis of the Pale King's reign.
 
-### Andriano, A. M., & Caracciolo, M. (2025). Metroidvania ecologies: Exploration and the environmental imagination in Hollow Knight and Rain World. *Eludamos: Journal for Computer Game Culture*, 16(2), 9–28. https://doi.org/10.7557/ejcgc.v16i2.7958
+### Andriano, A. M., & Caracciolo, M. (2025). Metroidvania ecologies: Exploration and the environmental imagination in Hollow Knight and Rain World. *Eludamos: Journal for Computer Game Culture*, 16(2), 9 to 28. https://doi.org/10.7557/ejcgc.v16i2.7958
 - **Disciplinary Focus:** Environmental Humanities, Ecocriticism, Metroidvania Spatial Design.
 - **Methodology & Theoretical Framework:** Ecocritical analysis utilizing Timothy Morton's "dark ecology" and non-anthropocentric game studies to analyze player traversal in nonhuman post-apocalyptic ecosystems.
 - **Core Findings & Analytical Relevance:** The authors examine how the spatial topologies of *Hollow Knight* resist conventional fantasies of anthropocentric mastery, resource extraction, and player dominion. Backtracking through the ruins of Hallownest is conceptualized not as repetitive ludic filler, but as an ecological loop wherein the player-avatar becomes embedded in an autonomous, indifferent, nonhuman biosphere. The decay of the Pale King's synthetic structures and the resurgence of untamed fungal and insect life illustrate the opacity and agency of more-than-human worlds. Crucial for our examination of Hallownest's spatial ecology and nonhuman world-building.
 
-### Caracciolo, M. (2026). Playing a game of worlds: World building and its disruptions in video games. *Journal of Gaming & Virtual Worlds*, 18(1), 3–19. https://doi.org/10.1386/jgvw_00139_1
+### Caracciolo, M. (2026). Playing a game of worlds: World building and its disruptions in video games. *Journal of Gaming & Virtual Worlds*, 18(1), 3 to 19. https://doi.org/10.1386/jgvw_00139_1
 - **Disciplinary Focus:** Narrative Theory, Cognitive Media Studies, World-Building.
 - **Methodology & Theoretical Framework:** Narrative analysis of world disruption and environmental precariousness across contemporary digital games, featuring comparative analysis of *Hollow Knight: Silksong* and *Elden Ring*.
 - **Core Findings & Analytical Relevance:** Caracciolo investigates how video game worlds foreground systemic fragility rather than static fictional containment. In *Silksong*, the world of Pharloom is analyzed as a society under severe theological and material strain, where the vertical ascent toward the Citadel continuously exposes the fissures between the sacred myth of the Pilgrimage and the mechanical exploitation of insect labor and silk extraction. Provides a vital theoretical bridge linking Pharloom's vertical geography to narrative disruptions of institutional authority.
@@ -34,7 +34,7 @@
 - **Methodology & Theoretical Framework:** Close hermeneutic reading of religious symbols, liturgical motifs, and ascetic practices embedded in *Hollow Knight: Silksong*.
 - **Core Findings & Analytical Relevance:** Wysocki evaluates Pharloom's pervasive theological architecture, examining how the game deploys choral hymns, tolling bells, ritual spools, and liturgical vestments to construct an aesthetic of sacred obligation. The pilgrimage to the Citadel is analyzed as a spiritualization of institutional servitude, wherein devotion to Grand Mother Silk obfuscates somatic parasitism. The review highlights the tension between Hornet's secular, defiant agency and the pious surrender of Pharloom's pilgrims.
 
-### Morales-Primo, A. U. (2026). Hornet's web: Weaving the biology of silk into Hollow Knight: Silksong. *Journal of Geek Studies*, 13(1), 29–36. https://doi.org/10.5281/zenodo.19487722
+### Morales-Primo, A. U. (2026). Hornet's web: Weaving the biology of silk into Hollow Knight: Silksong. *Journal of Geek Studies*, 13(1), 29 to 36. https://doi.org/10.5281/zenodo.19487722
 - **Disciplinary Focus:** Biological Sciences, Entomological Biomimetics, Game Studies.
 - **Methodology & Theoretical Framework:** Comparative biomimetic analysis evaluating Hornet's ludic abilities against real-world arthropod silk biochemistry, dragline mechanics, and arachnid physiological morphology.
 - **Core Findings & Analytical Relevance:** Morales-Primo provides a rigorous scientific assessment of silk as both material culture and gameplay mechanic in *Silksong*. The article details how silk's tensile strength, liquid-crystalline spinning, and elasticity are translated into Hornet's rapid traversal (Silk Soar, grappling needle) and restorative biology (Bind mechanic). It notes that Hornet's unique hybrid biology - born of the Wyrm (Pale King) and the Spider (Herrah the Beast) - embodies the evolutionary convergence of venomous predation and architectural weaving, grounding fictional game mechanics in authentic entomological principles.
@@ -43,7 +43,7 @@
 
 ## 2. Foundational Game Studies & Spatial Narratology
 
-### Jenkins, H. (2004). Game design as narrative architecture. In N. Wardrip-Fruin & P. Harrigan (Eds.), *First person: New media as story, performance, and game* (pp. 118–130). MIT Press.
+### Jenkins, H. (2004). Game design as narrative architecture. In N. Wardrip-Fruin & P. Harrigan (Eds.), *First person: New media as story, performance, and game* (pp. 118 to 130). MIT Press.
 - **Annotation:** Jenkins conceptualizes game designers not as conventional storytellers, but as narrative architects who sculpt spaces pregnant with narrative potential. His four spatial narrative modalities - evocative spaces, enacting stories, embedded narratives, and emergent narratives - provide the core analytical framework for decoding how Hallownest and Pharloom encode historical collapse into their physical architecture.
 
 ### Aarseth, E. J. (1997). *Cybertext: Perspectives on ergodic literature*. Johns Hopkins University Press.
@@ -86,14 +86,14 @@
 ### Wilson, E. O., & Hölldobler, B. (1990). *The ants*. Belknap Press of Harvard University Press.
 - **Annotation:** The definitive entomological text on eusociality, superorganism dynamics, pheromone communication, and colony defense. Provides the biological benchmark against which the social structures of the Hive (Queen Vespa), the Mantis Village, and Pharloom's ant/beetle labor brigades are evaluated.
 
-### Vollrath, F., & Knight, D. P. (2001). Liquid crystalline spinning of spider silk. *Nature*, 410(6828), 541–548. https://doi.org/10.1038/35069000
+### Vollrath, F., & Knight, D. P. (2001). Liquid crystalline spinning of spider silk. *Nature*, 410(6828), 541 to 548. https://doi.org/10.1038/35069000
 - **Annotation:** Benchmark biochemical analysis of the phase-transition, tensile mechanics, and protein crystallization of arthropod silk. Grounding reference for evaluating the biomimetic plausibility of Hornet's needle-spun abilities and Pharloom's silk-based industrial technology.
 
 ---
 
 ## 4. Philosophy, Ethics, Divinity & Mythological Studies
 
-### Le Guin, U. K. (1973). The ones who walk away from Omelas. In *The wind's twelve quarters* (pp. 275–284). Harper & Row.
+### Le Guin, U. K. (1973). The ones who walk away from Omelas. In *The wind's twelve quarters* (pp. 275 to 284). Harper & Row.
 - **Annotation:** The seminal philosophical parable exploring the moral bankruptcy of utilitarian social utopias built upon the deliberate, unceasing torment of a scapegoated child. Provides the ethical archetype against which the Pale King's creation and abandonment of millions of Vessel children in the Abyss is interrogated.
 
 ### Agamben, G. (1998). *Homo sacer: Sovereign power and bare life* (D. Heller-Roazen, Trans.). Stanford University Press.
@@ -102,7 +102,7 @@
 ### Camus, A. (1942). *The myth of Sisyphus and other essays* (J. O'Brien, Trans.). Vintage Books.
 - **Annotation:** Camus's philosophy of the absurd - the confrontation between human longing for meaning and the cold indifference of the cosmos - illuminates the player's experience of repetitive death, brutal failure, and unyielding persistence in the face of insurmountable divine and cosmic adversaries.
 
-### Nagel, T. (1979). The absurd. In *Mortal questions* (pp. 11–23). Cambridge University Press.
+### Nagel, T. (1979). The absurd. In *Mortal questions* (pp. 11 to 23). Cambridge University Press.
 - **Annotation:** Nagel analyzes absurdity as arising from the perpetual collision between the internal seriousness with which we view our commitments and the external perspective from which they appear arbitrary. Relevant to the tragic futility of Hallownest's Great Knights and Pharloom's devoted pilgrims.
 
 ### Eliade, M. (1959). *The sacred and the profane: The nature of religion* (W. R. Trask, Trans.). Harcourt, Brace & World.

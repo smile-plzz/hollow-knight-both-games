@@ -1,7 +1,7 @@
 # Reference Verification Dossier: moralesprimo2026hornet
 
 - **Citation Key:** `moralesprimo2026hornet`
-- **Claimed Citation:** Abraham U. Morales-Primo. (2026). Hornet's Web: Weaving the Biology of Silk into Hollow Knight: Silksong. *Journal of Geek Studies*, 13(1), 29–36.
+- **Claimed Citation:** Abraham U. Morales-Primo. (2026). Hornet's Web: Weaving the Biology of Silk into Hollow Knight: Silksong. *Journal of Geek Studies*, 13(1), 29 to 36.
 - **Verification Status:** **VERIFIED (With Attribution Corrections)**
 - **Verification Date:** 2026-11-09
 - **Verified Metadata:**
@@ -9,7 +9,7 @@
   - Title: Hornet's web: weaving the biology of silk into *Hollow Knight: Silksong*
   - Journal: *Journal of Geek Studies*
   - Volume & Issue: Vol. 13, No. 1 (2026)
-  - Pages: 29–36
+  - Pages: 29 to 36
   - DOI: `10.5281/zenodo.19487722`
   - URL: `https://jgeekstudies.org/` / Zenodo archive
 

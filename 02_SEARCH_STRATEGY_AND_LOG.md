@@ -22,7 +22,7 @@ Searches were conducted across primary academic indexing engines, open-access re
    - *Journal of Geek Studies*
    - *Game Studies: The International Journal of Computer Game Research*
 5. **Primary Developer Archives:**
-   - Team Cherry Official Website & Blog Archives (2014–2026)
+   - Team Cherry Official Website & Blog Archives (2014 to 2026)
    - Australian Centre for the Moving Image (ACMI) Curatorial Interviews
    - Bandcamp Daily Official Composer Interviews (Christopher Larkin)
    - Nintendo Official Developer Interviews
@@ -81,7 +81,7 @@ Searches were conducted across primary academic indexing engines, open-access re
   - *Key inclusions:* Larkin (2020) Bandcamp Daily in-depth interview; Donnelly (2014) *Video Game Music and Atmosphere*; Summers (2016) *Understanding Video Game Music*.
 - **Query 5.2:** `"Team Cherry" AND ("Ari Gibson" OR "William Pellen") AND ("interview" OR "development" OR "design")`
   - *Hits:* 29 records | *Screened:* 11 | *Included:* 5
-  - *Key inclusions:* Nintendo Australia (2018) *The Metamorphosis of Hollow Knight*; ACMI (2022) *From Ludum Dare to Pharloom*; Team Cherry Blog Archives (2014–2025).
+  - *Key inclusions:* Nintendo Australia (2018) *The Metamorphosis of Hollow Knight*; ACMI (2022) *From Ludum Dare to Pharloom*; Team Cherry Blog Archives (2014 to 2025).
 
 ---
 

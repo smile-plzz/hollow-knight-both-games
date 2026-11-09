@@ -16,13 +16,13 @@ The creative trajectory of *Hollow Knight: Silksong* represents one of the most 
 flowchart LR
     A["2014 Kickstarter: Stretch Goal 'Second Playable Character'"] --> B["2017: DLC Concepting & Mechanical Incompatibility"]
     B --> C["2019: 'Silksong Revealed' - Full Standalone Sequel"]
-    C --> D["2022 ACMI Retrospective: Spatial Redesign for Agility"]
+    C --> D["2025 ACMI Feature: Spatial Redesign for Agility"]
     D --> E["2025 Worldwide Release: Pharloom Across 3 Acts"]
     E --> F["Holiday 2025: Announcement of 'Sea of Sorrow' (Unreleased)"]
 ```
 
 ### 1.1 The Mechanical Incompatibility of Hornet
-As documented in curatorial retrospectives with the Australian Centre for the Moving Image (ACMI, 2022) and official developer statements (Team Cherry, 2019), when Ari Gibson and William Pellen began prototyping Hornet within Hallownest’s engine in late 2017, they encountered immediate, irreconcilable design contradictions [Tier 1]:
+As documented in curatorial retrospectives with the Australian Centre for the Moving Image (Maxwell, 2025) and official developer statements (Team Cherry, 2019), when Ari Gibson and William Pellen began prototyping Hornet within Hallownest’s engine in late 2017, they encountered immediate, irreconcilable design contradictions [Tier 1]:
 1. **Vertical Scale & Proportions:** Hornet is physically taller than the Knight, possessed of long, needle-wielding limbs, and designed for lightning-fast, acrobatic traversal (sprinting, automatic ledge-mantling, 45-degree diagonal downward lunges, and silk grappling) [Tier 1].
 2. **Corridor Constriction:** Hallownest’s corridors, ceiling heights, and enemy collision boxes were meticulously tuned to the Knight’s stubby jump arc and deliberate pacing. Placing Hornet in Hallownest caused her to constantly strike low ceilings and effortlessly bypass platforming hazards [Tier 1].
 3. **Ludic Economy:** The Knight's reliance on ethereal **Soul** (cast from a distance or focused while standing perfectly motionless) contradicted Hornet’s martial, physical persona. Hornet required a physical, tactile resource - **Silk** - which she extracts from chitin and weaves into rapid, mid-air healing (*Bind*) and lethal toolcraft [Tier 1].

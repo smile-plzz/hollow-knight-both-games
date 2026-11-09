@@ -10,7 +10,7 @@ An interdisciplinary academic comparative game studies research project examinin
 
 This project began when Ismail set out to investigate the interconnected civilizations, mythologies, and philosophies of Team Cherry's *Hollow Knight* (2017) and *Hollow Knight: Silksong* (2025). Rather than approaching the games through conventional walkthroughs or surface-level lore summaries, the goal was to treat Hallownest and Pharloom as serious subjects of comparative game studies, political theology, and environmental humanities.
 
-An initial draft of the full research suite, comprising an 11,800-word manuscript, twenty supporting analysis chapters, and character compendiums, was drafted in an initial exploratory session using an autonomous AI research assistant. While the narrative synthesis and conceptual framing were rich and expansive, the initial draft contained significant evidence gaps: unverified academic citations, self-certified review passes that simulated external evaluation, and unsourced game lore claims.
+An initial draft of the full research suite, comprising a 12,500-word manuscript, twenty supporting analysis chapters, and character compendiums, was drafted in an initial exploratory session using an autonomous AI research assistant. While the narrative synthesis and conceptual framing were rich and expansive, the initial draft contained significant evidence gaps: unverified academic citations, self-certified review passes that simulated external evaluation, and unsourced game lore claims.
 
 The project is currently undergoing a thorough triage and verification phase. Every bibliographic reference is being individually audited against academic registries, lore claims are being anchored to verifiable secondary sources (official wikis, developer interviews, and patch archives), simulated reviews are being honestly relabeled as internal self-audits, and all claims are being calibrated to strict epistemic standards without inflated confidence.
 
@@ -48,7 +48,7 @@ The project is currently undergoing a thorough triage and verification phase. Ev
 | `17_ECOLOGY_RELIGION_AND_MYTHOLOGY.md` | Entomological science, nonhuman ecologies, and ritual worship | Working Notes (AI Draft) |
 | `18_CHARACTER_RELATIONSHIP_MAPS.md` | Mermaid sociometric network models of character dynamics | Working Notes (AI Draft) |
 | `19_CLAIM_AND_EVIDENCE_MATRIX.csv` | Structured register of verifiable claims and canon tiers | Under Verification |
-| `20_FULL_RESEARCH_PAPER.md` | Master comparative academic manuscript (11,841 words) | Draft Under Verification |
+| `20_FULL_RESEARCH_PAPER.md` | Master comparative academic manuscript (12,533 words) | Draft Under Verification |
 | `21_PEER_REVIEW.md` | Simulated multi-perspective review (AI, not independent) | Internal AI Review |
 | `22_REVISION_AND_INTEGRITY_REPORT.md` | AI self-audit and revision notes (not independent) | Internal Self-Audit |
 | `23_PROCESS_RECORD.md` | Research process record and methodology accounting | Working Record |

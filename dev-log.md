@@ -65,10 +65,21 @@
 
 ## [2026-11-09T13:47:00+06:00] - Phase 1 Priority Source Verification and Manuscript Alignment
 - Verified Bohan Zhang (2026) source metadata: authored at Shanghai University of Engineering Science, presented at 9th International Conference on Culture Technology (ICCT 2026), organized by IACST. Updated `references.bib` and `03_ANNOTATED_BIBLIOGRAPHY.md`.
-- Verified Jan Wysocki (2026) review in JRFM Vol. 12 No. 1, pages 161–164. Calibrated citation scope to religious symbolism, pilgrimage, and liturgical judgment.
-- Verified Abraham U. Morales-Primo (2026) in Journal of Geek Studies Vol. 13 No. 1, pages 29–36 (DOI: 10.5281/zenodo.19487722). Corrected CLM-007 and CLM-015 to remove fabricated frame data and laboratory biopolymer claims, focusing strictly on qualitative spider hunting comparisons (spitting spiders and bolas spiders).
+- Verified Jan Wysocki (2026) review in JRFM Vol. 12 No. 1, pages 161 to 164. Calibrated citation scope to religious symbolism, pilgrimage, and liturgical judgment.
+- Verified Abraham U. Morales-Primo (2026) in Journal of Geek Studies Vol. 13 No. 1, pages 29 to 36 (DOI: 10.5281/zenodo.19487722). Corrected CLM-007 and CLM-015 to remove fabricated frame data and laboratory biopolymer claims, focusing strictly on qualitative spider hunting comparisons (spitting spiders and bolas spiders).
 - Created ten comprehensive source verification dossiers in `verification/`.
 - Integrated all four previously unreferenced bibliography items into `20_FULL_RESEARCH_PAPER.md` (Wolf 2012 in Section 3.1, Nagel 1979 and Suits 1978 in Section 18.2, and normalized Fernandez-Vara 2011).
 - Expanded Section 19.3 to address all five Devil's Advocate challenges (including the intentionality of the Void and Hornet's voiced persona).
 - Removed the unverified 90% ACMI statistic in Section 19.3, substituting verified curatorial documentation of Team Cherry's world-building design binders.
 - Re-executed `tools/audit.py`: 38 of 38 bibliography entries referenced, zero unreferenced sources, zero em-dashes, and zero false independence/PASS claims.
+
+## [2026-11-09T15:30:00+06:00] - Phase A: Ground Truth, Fact Checking, and Verification Index
+- Corrected Christopher Larkin reference across bibliography and manuscript: published 10 November 2025 by Casey Jarman in Bandcamp Daily, titled 'Christopher Larkin Doesn't Just Score Video Games, He Creates Worlds'. Updated key to larkin2025bandcamp and created verification dossier erification/larkin2025bandcamp.md.
+- Corrected ACMI attribution across bibliography, manuscript, and supporting notes: authored by Jini Maxwell on 5 September 2025, titled 'From Ludum Dare to Pharloom'. Removed unsupported 90 percent lore planning claim, replacing with documented iterative world-building model. Updated key to maxwell2025ludum and created verification dossier erification/maxwell2025ludum.md.
+- Reconciled Kickstarter historical figures and stretch goals: documented AU$ 35,000 goal, AU$ 57,129 pledged from 2,158 backers on 19 December 2014, and ~AU$ 58,893 with late PayPal pledges on the Hollow Knight Wiki. Clarified funded vs unfunded stretch goals and verified Jasmine Vine's role as programmer.
+- Updated Bohan Zhang (2026) dossier with ICCT 2026 conference program details (Oral Session 10, Shanghai).
+- Created erification/INDEX.md cataloging all 38 references with verification tiers, exact links/DOIs, and retrieval dates.
+- Converted local Windows paths in walkthrough.md to clean relative paths.
+- Rewrote Section 5.1 and 5.2 of 20_FULL_RESEARCH_PAPER.md to explicitly state desk-research protocols and secondary-confirmed canon boundaries.
+- Replaced all en-dashes and em-dashes across all Markdown files in the repository.
+- Successfully ran 	ools/audit.py.
