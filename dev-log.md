@@ -129,3 +129,8 @@
 - Grounded each essay in at least 10 verified atomic claim citations spanning both Hollow Knight and Silksong.
 - Structured each essay with an explicit 'What We Do Not Know' section to demarcate verified canonical lore from interpretive readings.
 - Audited for zero em-dashes and zero en-dashes across all essay files.
+
+## [2026-11-09T16:10:00+06:00] - Phase I: Contested Readings and FAQ Compendium
+- Created lore/contested_readings.md analyzing twenty-two significant debates across both games with explicit positions, canonical evidence, source citations, and epistemic certainty assessments.
+- Created lore/FAQ.md answering forty-six community and canonical questions across seven thematic domains (Protagonists, Hallownest Origins, Calamity and Infection, Void and Abyss, Pharloom and Silksong Narrative, Mechanics and Economies, Canon and Chronology) with concise 3 to 8 sentence answers citing atomic claim IDs.
+- Audited for zero em-dashes and zero en-dashes across all generated files.
