@@ -108,3 +108,9 @@
 - Formatted every file with standardized 5-part architecture: Tier 1 confirmed canon with claim IDs, Tier 2 strongly supported inferences, Tier 3 speculative readings and gaps, thematic significance, and open research questions.
 - Recorded 144 atomic claims into data/claims_hk.csv, mapping every claim to verified entities and secondary source IDs.
 - Audited for zero em-dashes and zero en-dashes across all generated deep dive files.
+
+## [2026-11-09T15:55:00+06:00] - Phase F: Silksong Story Deep Dives
+- Authored twelve modular story deep dives in lore/ss_*.md (Pharloom Geography and Bells, Hornet's Arrival, Grand Mother Silk, The Weavers' Ancestral Fate, The High Citadel and Pilgrimage, Lace and Fencing Rivalry, The Last Judge, Pilgrims and Labor in The Marrow, Merchant Economy and Bell Beast, Three-Act Structure, Wishes System and Community Quests, and Silk Powers and Crests).
+- Maintained strict 5-part structure across every file, separating Tier 1 canon from Tier 2 inferences and Tier 3 speculative readings, and grounding every section in verified source IDs.
+- Recorded 144 atomic claims into data/claims_ss.csv, linking all claims to registered entity IDs and secondary sources.
+- Audited for zero em-dashes and zero en-dashes across all files.
