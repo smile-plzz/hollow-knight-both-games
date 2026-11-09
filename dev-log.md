@@ -123,3 +123,9 @@
 - Authored 25 Tier A character dossiers in characters/tier_a_*.md following the comprehensive 7-part template, mapping each character to verified claims, graph edges, and thematic questions.
 - Authored 20 Tier B character dossiers in characters/tier_b_*.md detailing significant secondary NPCs and bosses.
 - Audited for zero em-dashes and zero en-dashes across all generated files.
+
+## [2026-11-09T16:05:00+06:00] - Phase H: Thematic Essays
+- Authored eight comparative thematic essays in themes/ (Sacrifice and Inherited Burden, Faith and Theocracy, Dreams and Memory, Ecology and Infection, Class and Labor, Voice and Silence, Parents and Succession, Ruins and Backtracking).
+- Grounded each essay in at least 10 verified atomic claim citations spanning both Hollow Knight and Silksong.
+- Structured each essay with an explicit 'What We Do Not Know' section to demarcate verified canonical lore from interpretive readings.
+- Audited for zero em-dashes and zero en-dashes across all essay files.
