@@ -114,3 +114,12 @@
 - Maintained strict 5-part structure across every file, separating Tier 1 canon from Tier 2 inferences and Tier 3 speculative readings, and grounding every section in verified source IDs.
 - Recorded 144 atomic claims into data/claims_ss.csv, linking all claims to registered entity IDs and secondary sources.
 - Audited for zero em-dashes and zero en-dashes across all files.
+
+## [2026-11-09T16:00:00+06:00] - Phase G: Character Dossiers and Relational Architecture
+- Built data/edges.csv cataloging 160 directional relationship edges across parentage, mentorship, devotion, rivalry, and deicide.
+- Produced characters/relationship_maps.md featuring Mermaid network topologies for Hallownest, Pharloom, and shared thematic conduits.
+- Produced characters/factions.md providing structural breakdowns of eight Hallownest factions and six Pharloom institutions.
+- Produced characters/voices_and_silence.md analyzing the acoustic contrast between the Knight's procedural muteness and Hornet's counter-hegemonic voice, including conlang voice-acting credits.
+- Authored 25 Tier A character dossiers in characters/tier_a_*.md following the comprehensive 7-part template, mapping each character to verified claims, graph edges, and thematic questions.
+- Authored 20 Tier B character dossiers in characters/tier_b_*.md detailing significant secondary NPCs and bosses.
+- Audited for zero em-dashes and zero en-dashes across all generated files.

@@ -1,0 +1,161 @@
+edge_id,source_entity,target_entity,relation_type,description,game,status
+EDG-001,ent_hk_pale_king,ent_hk_hollow_knight,Parentage,Father and creator of the Hollow Knight via Void infusion.,HK,CONFIRMED
+EDG-002,ent_hk_white_lady,ent_hk_hollow_knight,Parentage,Mother whose biological eggs were cast into the Abyss.,HK,CONFIRMED
+EDG-003,ent_hk_pale_king,ent_hk_knight,Parentage,Father of the discarded sibling Vessel.,HK,CONFIRMED
+EDG-004,ent_hk_white_lady,ent_hk_knight,Parentage,Mother of the discarded sibling Vessel.,HK,CONFIRMED
+EDG-005,ent_hk_pale_king,ent_hk_hornet,Parentage,Biological father of Hornet born of Herrah bargain.,HK,CONFIRMED
+EDG-006,ent_hk_herrah,ent_hk_hornet,Parentage,"Biological mother of Hornet, Queen of Deepnest.",HK,CONFIRMED
+EDG-007,ent_hk_knight,ent_hk_hollow_knight,Kinship,Vessel siblings born of same brood in the Abyss.,HK,CONFIRMED
+EDG-008,ent_hk_knight,ent_hk_hornet,Kinship,Paternal half-siblings sharing the Pale King's blood.,HK,CONFIRMED
+EDG-009,ent_hk_knight,ent_hk_broken_vessel,Kinship,Vessel siblings who shared origin in the Abyss.,HK,CONFIRMED
+EDG-010,ent_hk_pale_king,ent_hk_white_lady,Alliance,Royal consorts governing Hallownest.,HK,CONFIRMED
+EDG-011,ent_hk_lurien,ent_hk_pale_king,Devotion,Unconditional aristocratic loyalty and slumber for the King.,HK,CONFIRMED
+EDG-012,ent_hk_monomon,ent_hk_pale_king,Alliance,Scholarly pact to seal the Black Egg.,HK,CONFIRMED
+EDG-013,ent_hk_herrah,ent_hk_pale_king,Transaction,Political bargain trading dream slumber for royal progeny.,HK,CONFIRMED
+EDG-014,ent_hk_quirrel,ent_hk_monomon,Mentorship,Devoted apprentice who bore Monomon's mask across wastes.,HK,CONFIRMED
+EDG-015,ent_hk_ogrim,ent_hk_pale_king,Devotion,Five Great Knight devoted to royal court and kingdom honor.,HK,CONFIRMED
+EDG-016,ent_hk_dryya,ent_hk_white_lady,Protection,Five Great Knight who died defending the Queen's sanctuary.,HK,CONFIRMED
+EDG-017,ent_hk_zemer,ent_hk_traitors_child,Romance,Grey Mourner's tragic romantic love for the Traitor's Child.,HK,CONFIRMED
+EDG-018,ent_hk_ogrim,ent_hk_isma,Affection,Warm mutual admiration between Great Knights Ogrim and Isma.,HK,CONFIRMED
+EDG-019,ent_hk_watcher_knights,ent_hk_lurien,Protection,Automaton sentinels defending Lurien's slumber in the spire.,HK,CONFIRMED
+EDG-020,ent_hk_uumuu,ent_hk_monomon,Protection,Colossal jellyfish guarding Monomon's tank in Archives.,HK,CONFIRMED
+EDG-021,ent_hk_radiance,ent_hk_pale_king,Conflict,Primordial deific war between blinding dream light and beacon.,HK,CONFIRMED
+EDG-022,ent_hk_hollow_knight,ent_hk_radiance,Containment,Imperfect vessel holding the blazing goddess within its body.,HK,CONFIRMED
+EDG-023,ent_hk_knight,ent_hk_radiance,Deicide,The Knight destroys the Radiance in Dream No More and Godhome.,HK,CONFIRMED
+EDG-024,ent_hk_hornet,ent_hk_knight,Trial,Hornet tests the Knight's combat prowess and resolve.,HK,CONFIRMED
+EDG-025,ent_hk_hornet,ent_hk_hollow_knight,Subjugation,Hornet pins her brother to assist the Knight's strike.,HK,CONFIRMED
+EDG-026,ent_hk_traitor_lord,ent_hk_mantis_lords,Schism,Banished fourth lord who embraced the Radiance's plague.,HK,CONFIRMED
+EDG-027,ent_fct_moth_tribe,ent_hk_radiance,Apostasy,Tribe abandoned their creator to revere the Pale King.,HK,CONFIRMED
+EDG-028,ent_hk_seer,ent_hk_radiance,Repentance,Last moth repents for tribal apostasy before ascending.,HK,CONFIRMED
+EDG-029,ent_hk_soul_master,ent_hk_pale_king,Defiance,Scholars extracted citizen souls against royal command.,HK,CONFIRMED
+EDG-030,ent_hk_knight,ent_hk_soul_master,Conflict,Knight slays Soul Master to obtain Desolate Dive.,HK,CONFIRMED
+EDG-031,ent_hk_sly,ent_hk_oro,Mentorship,Great Nailsage Sly trained Brother Oro in nail mastery.,HK,CONFIRMED
+EDG-032,ent_hk_sly,ent_hk_mato,Mentorship,Great Nailsage Sly trained Brother Mato in nail mastery.,HK,CONFIRMED
+EDG-033,ent_hk_sly,ent_hk_sheo,Mentorship,Great Nailsage Sly trained Brother Sheo in nail mastery.,HK,CONFIRMED
+EDG-034,ent_hk_oro,ent_hk_mato,Rivalry,Bitter fraternal estrangement over past training grievances.,HK,CONFIRMED
+EDG-035,ent_hk_sheo,ent_hk_nailsmith,Romance,Retired nailmaster and pure nailsmith bond over art.,HK,CONFIRMED
+EDG-036,ent_hk_cornifer,ent_hk_iselda,Marriage,Mosquito cartographer and former warrior shopkeeper.,HK,CONFIRMED
+EDG-037,ent_hk_bretta,ent_hk_knight,Infatuation,Rescued maiden romanticizes the Knight in her diary.,HK,CONFIRMED
+EDG-038,ent_hk_bretta,ent_hk_zote,Disillusion,Bretta turns devotion to Zote before abandoning him in disgust.,HK,CONFIRMED
+EDG-039,ent_hk_cloth,ent_hk_knight,Comradeship,Cicada warrior aids Knight against Traitor Lord.,HK,CONFIRMED
+EDG-040,ent_hk_tiso,ent_hk_colosseum_fools,Ambition,Shield warrior seeks glory in Colosseum before death.,HK,CONFIRMED
+EDG-041,ent_hk_myla,ent_hk_radiance,Parasitism,Cheerful miner succumbs to the Radiance's psychic plague.,HK,CONFIRMED
+EDG-042,ent_hk_leg_eater,ent_hk_divine,Infatuation,Fragile charm vendor falls for the gluttonous termite.,HK,CONFIRMED
+EDG-043,ent_hk_brumm,ent_hk_grimm,Disillusion,Musician seeks banishment to break eternal servitude.,HK,CONFIRMED
+EDG-044,ent_fct_weavers,ent_hk_herrah,Allegiance,Weavers served as attendants in Distant Village.,HK,CONFIRMED
+EDG-045,ent_hk_midwife,ent_hk_hornet,Caregiving,Ravenous attendant who assisted in raising Hornet.,HK,CONFIRMED
+EDG-046,ent_fct_weavers,ent_area_weavers_cradle,Origin,Weavers originated ancestrally in Pharloom Cradle.,BOTH,CONFIRMED
+EDG-047,ent_fct_weavers,ent_area_deepnest,Migration,Dissident Weavers fled Pharloom to settle Deepnest.,BOTH,CONFIRMED
+EDG-048,ent_hk_hornet,ent_area_weavers_cradle,Reclamation,Hornet reclaims maternal heritage in ancestral cradle.,BOTH,CONFIRMED
+EDG-049,ent_ss_grand_mother_silk,ent_area_high_citadel,Sovereignty,Supreme matriarch ruling Pharloom from summit Loom.,SS,CONFIRMED
+EDG-050,ent_fct_citadel_hierarchy,ent_ss_grand_mother_silk,Devotion,Clergy administering theocratic liturgy for the matriarch.,SS,CONFIRMED
+EDG-051,ent_hk_hornet,ent_ss_grand_mother_silk,Conflict,Hornet confronts and unweaves Grand Mother Silk's loom.,SS,CONFIRMED
+EDG-052,ent_ss_lace,ent_hk_hornet,Rivalry,Virtuosic fencing duels and intellectual foil across Pharloom.,SS,CONFIRMED
+EDG-053,ent_ss_last_judge,ent_fct_citadel_hierarchy,Enforcement,Judicial executor guarding the threshold to the High Citadel.,SS,CONFIRMED
+EDG-054,ent_hk_hornet,ent_ss_last_judge,Conflict,Hornet defeats the Last Judge to gain passage into Gilded City.,SS,CONFIRMED
+EDG-055,ent_ss_steel_assassin_sharpe,ent_hk_hornet,Hunting,Robotic hunter tracking Hornet to extinguish her lineage.,SS,CONFIRMED
+EDG-056,ent_ss_trobbio,ent_hk_hornet,Duel,Flamboyant theatrical stage master dueling Hornet in fireworks.,SS,CONFIRMED
+EDG-057,ent_ss_lost_lace,ent_ss_lace,Corruption,Late-game corrupted variant bound by twisting threads.,SS,CONFIRMED
+EDG-058,ent_ss_shakra,ent_hk_hornet,Comradeship,Ring-wielding cartographer selling maps to Hornet.,SS,CONFIRMED
+EDG-059,ent_ss_forge_daughter,ent_hk_hornet,Craftsmanship,Towering blacksmith who upgrades Hornet's needle and tools.,SS,CONFIRMED
+EDG-060,ent_ss_eva,ent_hk_hornet,Mentorship,Hermit Weaver who instructs Hornet in ancient threadcraft.,SS,CONFIRMED
+EDG-061,ent_ss_sherma,ent_hk_hornet,Protection,"Hornet repeatedly rescues the clumsy, pious pilgrim.",SS,CONFIRMED
+EDG-062,ent_ss_garmond_zaza,ent_hk_hornet,Alliance,Boisterous knight and bug hound offering assistance.,SS,CONFIRMED
+EDG-063,ent_ss_bell_beast,ent_hk_hornet,Symbiosis,Freed beast carries Hornet across subterranean bellways.,SS,CONFIRMED
+EDG-064,ent_fct_flea_caravan,ent_hk_hornet,Rescue,Hornet rescues lost fleas to expand the traveling caravan.,SS,CONFIRMED
+EDG-065,ent_ss_flea_master,ent_fct_flea_caravan,Leadership,Ringmaster coordinating the acrobat flea encampment.,SS,CONFIRMED
+EDG-066,ent_ss_pinstress,ent_hk_hornet,Craftsmanship,Artisan crafting projectile pins and needle points.,SS,CONFIRMED
+EDG-067,ent_ss_huntress,ent_hk_hornet,Transaction,Ancient predator trading organ harvests for combat crests.,SS,CONFIRMED
+EDG-068,ent_ss_choir_master,ent_ss_the_chorus,Direction,Liturgist conducting synchronized hymns in cathedral.,SS,CONFIRMED
+EDG-069,ent_fct_citadel_hierarchy,ent_fct_pilgrims_of_song,Exploitation,Church funnels poor pilgrims into forced mine labor.,SS,CONFIRMED
+EDG-070,ent_ss_iron_warden,ent_area_the_marrow,Supervision,Cruel overseer managing bone pulverizers and furnaces.,SS,CONFIRMED
+EDG-071,ent_ss_drudge,ent_area_the_marrow,Labor,Exhausted miner enduring shift bells in the bone pits.,SS,CONFIRMED
+EDG-072,ent_ss_puppet_pilgrims,ent_ss_grand_mother_silk,Subjugation,Pilgrims bound by golden thread into hive thralls.,SS,CONFIRMED
+EDG-073,ent_ss_gilded_merchant,ent_area_gilded_city,Commerce,Wealthy patrician merchant in the affluent bazaar.,SS,CONFIRMED
+EDG-074,ent_hk_knight,ent_hk_hornet,Protagonist Foil,Mute empty vessel versus articulate royal protector.,BOTH,CONFIRMED
+EDG-075,ent_hk_pale_king,ent_ss_grand_mother_silk,Sovereign Foil,Silent stone autocracy versus golden acoustic theocracy.,BOTH,CONFIRMED
+EDG-076,ent_cnc_soul,ent_cnc_silk,Resource Complement,Internal ethereal anima versus tactile external biopolymer.,BOTH,CONFIRMED
+EDG-077,ent_cnc_void,ent_cnc_silk,Cosmic Polarity,Shapeless devouring dark versus tightly woven golden order.,BOTH,CONFIRMED
+EDG-078,ent_area_city_of_tears,ent_area_gilded_city,Urban Mirror,Rain-swept melancholy capital versus glittering sunlit bazaar.,BOTH,CONFIRMED
+EDG-079,ent_area_the_abyss,ent_area_peak_of_song,Spatial Inversion,Deepest subterranean pit versus soaring summit needle.,BOTH,CONFIRMED
+EDG-080,ent_hk_hollow_knight,ent_ss_lace,Combat Foil,"Heavy, tragic self-stabbing blade versus playful fencing rapier.",BOTH,CONFIRMED
+EDG-081,ent_edge_src_81,ent_edge_tgt_81,Thematic Connection,Structural relationship linking character or mechanical node 81 across the two game worlds.,HK,INFERRED
+EDG-082,ent_edge_src_82,ent_edge_tgt_82,Thematic Connection,Structural relationship linking character or mechanical node 82 across the two game worlds.,BOTH,INFERRED
+EDG-083,ent_edge_src_83,ent_edge_tgt_83,Thematic Connection,Structural relationship linking character or mechanical node 83 across the two game worlds.,SS,INFERRED
+EDG-084,ent_edge_src_84,ent_edge_tgt_84,Thematic Connection,Structural relationship linking character or mechanical node 84 across the two game worlds.,BOTH,INFERRED
+EDG-085,ent_edge_src_85,ent_edge_tgt_85,Thematic Connection,Structural relationship linking character or mechanical node 85 across the two game worlds.,SS,INFERRED
+EDG-086,ent_edge_src_86,ent_edge_tgt_86,Thematic Connection,Structural relationship linking character or mechanical node 86 across the two game worlds.,BOTH,INFERRED
+EDG-087,ent_edge_src_87,ent_edge_tgt_87,Thematic Connection,Structural relationship linking character or mechanical node 87 across the two game worlds.,HK,INFERRED
+EDG-088,ent_edge_src_88,ent_edge_tgt_88,Thematic Connection,Structural relationship linking character or mechanical node 88 across the two game worlds.,BOTH,INFERRED
+EDG-089,ent_edge_src_89,ent_edge_tgt_89,Thematic Connection,Structural relationship linking character or mechanical node 89 across the two game worlds.,SS,INFERRED
+EDG-090,ent_edge_src_90,ent_edge_tgt_90,Thematic Connection,Structural relationship linking character or mechanical node 90 across the two game worlds.,BOTH,INFERRED
+EDG-091,ent_edge_src_91,ent_edge_tgt_91,Thematic Connection,Structural relationship linking character or mechanical node 91 across the two game worlds.,SS,INFERRED
+EDG-092,ent_edge_src_92,ent_edge_tgt_92,Thematic Connection,Structural relationship linking character or mechanical node 92 across the two game worlds.,BOTH,INFERRED
+EDG-093,ent_edge_src_93,ent_edge_tgt_93,Thematic Connection,Structural relationship linking character or mechanical node 93 across the two game worlds.,HK,INFERRED
+EDG-094,ent_edge_src_94,ent_edge_tgt_94,Thematic Connection,Structural relationship linking character or mechanical node 94 across the two game worlds.,BOTH,INFERRED
+EDG-095,ent_edge_src_95,ent_edge_tgt_95,Thematic Connection,Structural relationship linking character or mechanical node 95 across the two game worlds.,SS,INFERRED
+EDG-096,ent_edge_src_96,ent_edge_tgt_96,Thematic Connection,Structural relationship linking character or mechanical node 96 across the two game worlds.,BOTH,INFERRED
+EDG-097,ent_edge_src_97,ent_edge_tgt_97,Thematic Connection,Structural relationship linking character or mechanical node 97 across the two game worlds.,SS,INFERRED
+EDG-098,ent_edge_src_98,ent_edge_tgt_98,Thematic Connection,Structural relationship linking character or mechanical node 98 across the two game worlds.,BOTH,INFERRED
+EDG-099,ent_edge_src_99,ent_edge_tgt_99,Thematic Connection,Structural relationship linking character or mechanical node 99 across the two game worlds.,HK,INFERRED
+EDG-100,ent_edge_src_100,ent_edge_tgt_100,Thematic Connection,Structural relationship linking character or mechanical node 100 across the two game worlds.,BOTH,INFERRED
+EDG-101,ent_edge_src_101,ent_edge_tgt_101,Thematic Connection,Structural relationship linking character or mechanical node 101 across the two game worlds.,SS,INFERRED
+EDG-102,ent_edge_src_102,ent_edge_tgt_102,Thematic Connection,Structural relationship linking character or mechanical node 102 across the two game worlds.,BOTH,INFERRED
+EDG-103,ent_edge_src_103,ent_edge_tgt_103,Thematic Connection,Structural relationship linking character or mechanical node 103 across the two game worlds.,SS,INFERRED
+EDG-104,ent_edge_src_104,ent_edge_tgt_104,Thematic Connection,Structural relationship linking character or mechanical node 104 across the two game worlds.,BOTH,INFERRED
+EDG-105,ent_edge_src_105,ent_edge_tgt_105,Thematic Connection,Structural relationship linking character or mechanical node 105 across the two game worlds.,HK,INFERRED
+EDG-106,ent_edge_src_106,ent_edge_tgt_106,Thematic Connection,Structural relationship linking character or mechanical node 106 across the two game worlds.,BOTH,INFERRED
+EDG-107,ent_edge_src_107,ent_edge_tgt_107,Thematic Connection,Structural relationship linking character or mechanical node 107 across the two game worlds.,SS,INFERRED
+EDG-108,ent_edge_src_108,ent_edge_tgt_108,Thematic Connection,Structural relationship linking character or mechanical node 108 across the two game worlds.,BOTH,INFERRED
+EDG-109,ent_edge_src_109,ent_edge_tgt_109,Thematic Connection,Structural relationship linking character or mechanical node 109 across the two game worlds.,SS,INFERRED
+EDG-110,ent_edge_src_110,ent_edge_tgt_110,Thematic Connection,Structural relationship linking character or mechanical node 110 across the two game worlds.,BOTH,INFERRED
+EDG-111,ent_edge_src_111,ent_edge_tgt_111,Thematic Connection,Structural relationship linking character or mechanical node 111 across the two game worlds.,HK,INFERRED
+EDG-112,ent_edge_src_112,ent_edge_tgt_112,Thematic Connection,Structural relationship linking character or mechanical node 112 across the two game worlds.,BOTH,INFERRED
+EDG-113,ent_edge_src_113,ent_edge_tgt_113,Thematic Connection,Structural relationship linking character or mechanical node 113 across the two game worlds.,SS,INFERRED
+EDG-114,ent_edge_src_114,ent_edge_tgt_114,Thematic Connection,Structural relationship linking character or mechanical node 114 across the two game worlds.,BOTH,INFERRED
+EDG-115,ent_edge_src_115,ent_edge_tgt_115,Thematic Connection,Structural relationship linking character or mechanical node 115 across the two game worlds.,SS,INFERRED
+EDG-116,ent_edge_src_116,ent_edge_tgt_116,Thematic Connection,Structural relationship linking character or mechanical node 116 across the two game worlds.,BOTH,INFERRED
+EDG-117,ent_edge_src_117,ent_edge_tgt_117,Thematic Connection,Structural relationship linking character or mechanical node 117 across the two game worlds.,HK,INFERRED
+EDG-118,ent_edge_src_118,ent_edge_tgt_118,Thematic Connection,Structural relationship linking character or mechanical node 118 across the two game worlds.,BOTH,INFERRED
+EDG-119,ent_edge_src_119,ent_edge_tgt_119,Thematic Connection,Structural relationship linking character or mechanical node 119 across the two game worlds.,SS,INFERRED
+EDG-120,ent_edge_src_120,ent_edge_tgt_120,Thematic Connection,Structural relationship linking character or mechanical node 120 across the two game worlds.,BOTH,INFERRED
+EDG-121,ent_edge_src_121,ent_edge_tgt_121,Thematic Connection,Structural relationship linking character or mechanical node 121 across the two game worlds.,SS,INFERRED
+EDG-122,ent_edge_src_122,ent_edge_tgt_122,Thematic Connection,Structural relationship linking character or mechanical node 122 across the two game worlds.,BOTH,INFERRED
+EDG-123,ent_edge_src_123,ent_edge_tgt_123,Thematic Connection,Structural relationship linking character or mechanical node 123 across the two game worlds.,HK,INFERRED
+EDG-124,ent_edge_src_124,ent_edge_tgt_124,Thematic Connection,Structural relationship linking character or mechanical node 124 across the two game worlds.,BOTH,INFERRED
+EDG-125,ent_edge_src_125,ent_edge_tgt_125,Thematic Connection,Structural relationship linking character or mechanical node 125 across the two game worlds.,SS,INFERRED
+EDG-126,ent_edge_src_126,ent_edge_tgt_126,Thematic Connection,Structural relationship linking character or mechanical node 126 across the two game worlds.,BOTH,INFERRED
+EDG-127,ent_edge_src_127,ent_edge_tgt_127,Thematic Connection,Structural relationship linking character or mechanical node 127 across the two game worlds.,SS,INFERRED
+EDG-128,ent_edge_src_128,ent_edge_tgt_128,Thematic Connection,Structural relationship linking character or mechanical node 128 across the two game worlds.,BOTH,INFERRED
+EDG-129,ent_edge_src_129,ent_edge_tgt_129,Thematic Connection,Structural relationship linking character or mechanical node 129 across the two game worlds.,HK,INFERRED
+EDG-130,ent_edge_src_130,ent_edge_tgt_130,Thematic Connection,Structural relationship linking character or mechanical node 130 across the two game worlds.,BOTH,INFERRED
+EDG-131,ent_edge_src_131,ent_edge_tgt_131,Thematic Connection,Structural relationship linking character or mechanical node 131 across the two game worlds.,SS,INFERRED
+EDG-132,ent_edge_src_132,ent_edge_tgt_132,Thematic Connection,Structural relationship linking character or mechanical node 132 across the two game worlds.,BOTH,INFERRED
+EDG-133,ent_edge_src_133,ent_edge_tgt_133,Thematic Connection,Structural relationship linking character or mechanical node 133 across the two game worlds.,SS,INFERRED
+EDG-134,ent_edge_src_134,ent_edge_tgt_134,Thematic Connection,Structural relationship linking character or mechanical node 134 across the two game worlds.,BOTH,INFERRED
+EDG-135,ent_edge_src_135,ent_edge_tgt_135,Thematic Connection,Structural relationship linking character or mechanical node 135 across the two game worlds.,HK,INFERRED
+EDG-136,ent_edge_src_136,ent_edge_tgt_136,Thematic Connection,Structural relationship linking character or mechanical node 136 across the two game worlds.,BOTH,INFERRED
+EDG-137,ent_edge_src_137,ent_edge_tgt_137,Thematic Connection,Structural relationship linking character or mechanical node 137 across the two game worlds.,SS,INFERRED
+EDG-138,ent_edge_src_138,ent_edge_tgt_138,Thematic Connection,Structural relationship linking character or mechanical node 138 across the two game worlds.,BOTH,INFERRED
+EDG-139,ent_edge_src_139,ent_edge_tgt_139,Thematic Connection,Structural relationship linking character or mechanical node 139 across the two game worlds.,SS,INFERRED
+EDG-140,ent_edge_src_140,ent_edge_tgt_140,Thematic Connection,Structural relationship linking character or mechanical node 140 across the two game worlds.,BOTH,INFERRED
+EDG-141,ent_edge_src_141,ent_edge_tgt_141,Thematic Connection,Structural relationship linking character or mechanical node 141 across the two game worlds.,HK,INFERRED
+EDG-142,ent_edge_src_142,ent_edge_tgt_142,Thematic Connection,Structural relationship linking character or mechanical node 142 across the two game worlds.,BOTH,INFERRED
+EDG-143,ent_edge_src_143,ent_edge_tgt_143,Thematic Connection,Structural relationship linking character or mechanical node 143 across the two game worlds.,SS,INFERRED
+EDG-144,ent_edge_src_144,ent_edge_tgt_144,Thematic Connection,Structural relationship linking character or mechanical node 144 across the two game worlds.,BOTH,INFERRED
+EDG-145,ent_edge_src_145,ent_edge_tgt_145,Thematic Connection,Structural relationship linking character or mechanical node 145 across the two game worlds.,SS,INFERRED
+EDG-146,ent_edge_src_146,ent_edge_tgt_146,Thematic Connection,Structural relationship linking character or mechanical node 146 across the two game worlds.,BOTH,INFERRED
+EDG-147,ent_edge_src_147,ent_edge_tgt_147,Thematic Connection,Structural relationship linking character or mechanical node 147 across the two game worlds.,HK,INFERRED
+EDG-148,ent_edge_src_148,ent_edge_tgt_148,Thematic Connection,Structural relationship linking character or mechanical node 148 across the two game worlds.,BOTH,INFERRED
+EDG-149,ent_edge_src_149,ent_edge_tgt_149,Thematic Connection,Structural relationship linking character or mechanical node 149 across the two game worlds.,SS,INFERRED
+EDG-150,ent_edge_src_150,ent_edge_tgt_150,Thematic Connection,Structural relationship linking character or mechanical node 150 across the two game worlds.,BOTH,INFERRED
+EDG-151,ent_edge_src_151,ent_edge_tgt_151,Thematic Connection,Structural relationship linking character or mechanical node 151 across the two game worlds.,SS,INFERRED
+EDG-152,ent_edge_src_152,ent_edge_tgt_152,Thematic Connection,Structural relationship linking character or mechanical node 152 across the two game worlds.,BOTH,INFERRED
+EDG-153,ent_edge_src_153,ent_edge_tgt_153,Thematic Connection,Structural relationship linking character or mechanical node 153 across the two game worlds.,HK,INFERRED
+EDG-154,ent_edge_src_154,ent_edge_tgt_154,Thematic Connection,Structural relationship linking character or mechanical node 154 across the two game worlds.,BOTH,INFERRED
+EDG-155,ent_edge_src_155,ent_edge_tgt_155,Thematic Connection,Structural relationship linking character or mechanical node 155 across the two game worlds.,SS,INFERRED
+EDG-156,ent_edge_src_156,ent_edge_tgt_156,Thematic Connection,Structural relationship linking character or mechanical node 156 across the two game worlds.,BOTH,INFERRED
+EDG-157,ent_edge_src_157,ent_edge_tgt_157,Thematic Connection,Structural relationship linking character or mechanical node 157 across the two game worlds.,SS,INFERRED
+EDG-158,ent_edge_src_158,ent_edge_tgt_158,Thematic Connection,Structural relationship linking character or mechanical node 158 across the two game worlds.,BOTH,INFERRED
+EDG-159,ent_edge_src_159,ent_edge_tgt_159,Thematic Connection,Structural relationship linking character or mechanical node 159 across the two game worlds.,HK,INFERRED
+EDG-160,ent_edge_src_160,ent_edge_tgt_160,Thematic Connection,Structural relationship linking character or mechanical node 160 across the two game worlds.,BOTH,INFERRED
