@@ -5,6 +5,22 @@ All notable changes to this academic research project will be documented in this
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Semantic Versioning.
 
+## [1.2.0] - 2026-11-09
+### Changed
+- Executed Phase 0 Triage and Honesty Pass per handoff directives from Ismail.
+- Relabeled `21_PEER_REVIEW.md` to "Simulated multi-perspective review (AI)" and `22_REVISION_AND_INTEGRITY_REPORT.md` to "AI self-audit and revision notes (not independent)", removing all unearned "PASS" certifications.
+- Updated authorship lines across `20_FULL_RESEARCH_PAPER.md` and `23_PROCESS_RECORD.md` to credit Ismail as lead author/curator and the AI as drafting assistant.
+- Added natural story-flow AI disclosure to `README.md` and `20_FULL_RESEARCH_PAPER.md`.
+- Added working notes notice banners across supporting files `05` through `18`.
+- Reconciled word counts and deliverables index in `23_PROCESS_RECORD.md`.
+- Removed leaked Vim tutorial section from `23_PROCESS_RECORD.md`.
+- Corrected Ludum Dare historical chronology in `20_FULL_RESEARCH_PAPER.md` (Ludum Dare 27: August 2013; Ludum Dare 29: April 2014).
+- Added `walkthrough.md` to repository root.
+- Replaced all em-dashes across all repository files with colons, hyphens, commas, or parentheses.
+
+### Added
+- Added `tools/audit.py` automated test script for checking citation presence, style rules (no em-dashes), honesty labels, and word counts.
+
 ## [1.1.0] - 2026-11-05
 ### Added
 - Exhaustive 43-character dossier for *Hollow Knight* covering every named NPC, Great Knight, merchant, Dreamer, and Warrior Dream with 5-dimension origin and build-up profiles (`06_HOLLOW_KNIGHT_CHARACTER_ANALYSIS.md`).

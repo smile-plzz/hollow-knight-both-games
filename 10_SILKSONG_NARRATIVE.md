@@ -1,5 +1,7 @@
 # The Song of Pharloom: Origins, Chronological History, and Narrative Reconstruction in *Hollow Knight: Silksong*
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Object of Analysis:** *Hollow Knight: Silksong* (Team Cherry, 2025)
 - **Methodology:** Dual-Track Narrative Reconstruction (Studio Genesis, Diegetic Chronology, Acoustic Political Theology, and Experiential Act Structure)
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)
@@ -8,12 +10,12 @@
 
 ## 1. Studio Origins & Creative Metamorphosis
 
-The creative trajectory of *Hollow Knight: Silksong* represents one of the most remarkable evolutionary leaps in modern independent game design. During Team Cherry's initial 2014 Kickstarter campaign for *Hollow Knight*, the AUD \$56,000 stretch goal promised a "Second Playable Character"—specifically **Hornet**, intended as an alternate, lightweight campaign running through the existing assets of Hallownest [Tier 1].
+The creative trajectory of *Hollow Knight: Silksong* represents one of the most remarkable evolutionary leaps in modern independent game design. During Team Cherry's initial 2014 Kickstarter campaign for *Hollow Knight*, the AUD \$56,000 stretch goal promised a "Second Playable Character" - specifically **Hornet**, intended as an alternate, lightweight campaign running through the existing assets of Hallownest [Tier 1].
 
 ```mermaid
 flowchart LR
     A["2014 Kickstarter: Stretch Goal 'Second Playable Character'"] --> B["2017: DLC Concepting & Mechanical Incompatibility"]
-    B --> C["2019: 'Silksong Revealed' — Full Standalone Sequel"]
+    B --> C["2019: 'Silksong Revealed' - Full Standalone Sequel"]
     C --> D["2022 ACMI Retrospective: Spatial Redesign for Agility"]
     D --> E["2025 Worldwide Release: Pharloom Across 3 Acts"]
     E --> F["Holiday 2025: Announcement of 'Sea of Sorrow' (Unreleased)"]
@@ -23,7 +25,7 @@ flowchart LR
 As documented in curatorial retrospectives with the Australian Centre for the Moving Image (ACMI, 2022) and official developer statements (Team Cherry, 2019), when Ari Gibson and William Pellen began prototyping Hornet within Hallownest’s engine in late 2017, they encountered immediate, irreconcilable design contradictions [Tier 1]:
 1. **Vertical Scale & Proportions:** Hornet is physically taller than the Knight, possessed of long, needle-wielding limbs, and designed for lightning-fast, acrobatic traversal (sprinting, automatic ledge-mantling, 45-degree diagonal downward lunges, and silk grappling) [Tier 1].
 2. **Corridor Constriction:** Hallownest’s corridors, ceiling heights, and enemy collision boxes were meticulously tuned to the Knight’s stubby jump arc and deliberate pacing. Placing Hornet in Hallownest caused her to constantly strike low ceilings and effortlessly bypass platforming hazards [Tier 1].
-3. **Ludic Economy:** The Knight's reliance on ethereal **Soul** (cast from a distance or focused while standing perfectly motionless) contradicted Hornet’s martial, physical persona. Hornet required a physical, tactile resource—**Silk**—which she extracts from chitin and weaves into rapid, mid-air healing (*Bind*) and lethal toolcraft [Tier 1].
+3. **Ludic Economy:** The Knight's reliance on ethereal **Soul** (cast from a distance or focused while standing perfectly motionless) contradicted Hornet’s martial, physical persona. Hornet required a physical, tactile resource - **Silk** - which she extracts from chitin and weaves into rapid, mid-air healing (*Bind*) and lethal toolcraft [Tier 1].
 
 Team Cherry realized that accommodating Hornet’s physical identity required building a completely new kingdom characterized by colossal vertical chambers, wider arenas, faster enemy AI, and complex acrobatic level geometry. In February 2019, Team Cherry announced that the DLC had metamorphosed into a full-scale, standalone sequel: *Hollow Knight: Silksong* [Tier 1].
 
@@ -48,7 +50,7 @@ flowchart TD
 ### 2.1 The Primordial Era and Indigenous Ecosystems
 Long before the erection of the Citadel, the vertical geological rift of Pharloom was an open chasm populated by disparate, nature-attuned insect cultures: the mosskin of **Moss Grotto**, the crustacean dockworkers of the **Deep Docks**, the indigenous hunter tribes of **Hunter's March**, and the ancient **Snail Shamans** [Tier 1]. 
 
-The most technologically and culturally advanced civilization in this primordial era was the **Weavers**—a mysterious clan of multi-eyed, highly intelligent arachnid artisans who mastered the esoteric science of spinning silk into living mechanisms, magical sigils, and spiritual bindings [Tier 1; Morales-Primo, 2026]. 
+The most technologically and culturally advanced civilization in this primordial era was the **Weavers** - a mysterious clan of multi-eyed, highly intelligent arachnid artisans who mastered the esoteric science of spinning silk into living mechanisms, magical sigils, and spiritual bindings [Tier 1; Morales-Primo, 2026]. 
 
 ### 2.2 The Rise of Grand Mother Silk and the Great Weaver Migration
 At the spiritual center of Pharloom arose a colossal, ancient higher being: **Grand Mother Silk** [Tier 1]. Unlike the Pale King (who imparted intellect through divine ego) or the Radiance (who unified consciousness through psychic dreams), Grand Mother Silk manifested as the primordial living source of thread, weaving the fabric of the kingdom and sustaining its inhabitants through an eternal, biological loom [Tier 1].
@@ -86,7 +88,7 @@ flowchart LR
 ```
 
 ### 2.3 The Theocracy of the Citadel: Acoustic Architecture and Liturgical Surveillance
-Back in Pharloom, the Citadel consolidated absolute theocratic authority over the vertical rift [Tier 1; Wysocki, 2026]. The ruling clergy—comprising the **Songclave**, the **Choir**, and the High Inquisitors—engineered a pervasive socio-religious system structured around three mechanical-liturgical pillars [Tier 1]:
+Back in Pharloom, the Citadel consolidated absolute theocratic authority over the vertical rift [Tier 1; Wysocki, 2026]. The ruling clergy - comprising the **Songclave**, the **Choir**, and the High Inquisitors - engineered a pervasive socio-religious system structured around three mechanical-liturgical pillars [Tier 1]:
 
 #### 1. Acoustic Architecture and The Sacred Song
 The Citadel is not merely an administrative capital; it is a monumental musical instrument [Tier 1]. Engineered with thousands of hollow reverberation columns, brass carillons, and colossal pipe organs embedded into the living rock, the Citadel broadcasts **The Sacred Song** across the entire kingdom [Tier 1; Wysocki, 2026]:
@@ -136,7 +138,7 @@ The explosion collapses the bridge. The carriage plummets into the depths of the
 ### Act II: The Gilded Citadel and the Spectacle of Faith
 - **Greymoor & Shellwood:** Hornet travels through the perpetual downpour of **Greymoor**, an atmospheric wasteland populated by scavenger crows, abandoned mansions, and eccentric performers like the flamboyant butterfly **Trobbio** [Tier 1]. In **Shellwood**, she discovers the petrified ruins of ancient Weaver colonies, reading forbidden stone inscriptions that detail the ancient schism and the flight of her ancestors to Deepnest [Tier 1].
 - **Infiltrating the High Citadel (Songclave & Choral Chambers):** Reaching the high metropolis of the Citadel, Hornet witnesses the pinnacle of Pharloom’s liturgical splendor [Tier 1]. Vaulted marble halls, stained glass windows depicting Grand Mother Silk, and monumental pipe organs fill the air with thunderous song [Tier 1]. Yet the metropolis is a gilded tomb: mechanized **Cogwork Dancers** patrol the plazas, and the terrifying **Last Judge** executes pilgrims whose voices deviate from the sacred tune [Tier 1].
-- **Confronting Grand Mother Silk:** At the summit of the Citadel, Hornet penetrates the sanctum of the **Great Loom** [Tier 1]. There, she finds **Grand Mother Silk** suspended in an enormous, pulsating web of golden-white silk [Tier 1]. The divine matriarch speaks in hypnotic, harmonic chords, revealing that Hornet was captured because her hybrid blood—combining Pale Wyrm divinity with Weaver biological silkcraft—is the only substance capable of restringing the fraying loom and restoring Pharloom's eternal life [Tier 1].
+- **Confronting Grand Mother Silk:** At the summit of the Citadel, Hornet penetrates the sanctum of the **Great Loom** [Tier 1]. There, she finds **Grand Mother Silk** suspended in an enormous, pulsating web of golden-white silk [Tier 1]. The divine matriarch speaks in hypnotic, harmonic chords, revealing that Hornet was captured because her hybrid blood - combining Pale Wyrm divinity with Weaver biological silkcraft - is the only substance capable of restringing the fraying loom and restoring Pharloom's eternal life [Tier 1].
 - **The Act II Climax & Baseline Ending:** Hornet battles Grand Mother Silk in a high-stakes, acrobatic duel. Severing the central spools shatters the matriarch's physical vessel. In a standard playthrough, this triggers **Ending 1: Weaver Queen**, where Hornet takes the throne of the loom, subduing the Discord at the cost of binding her own soul permanently to Pharloom's machinery [Tier 1]. However, if the player has uncovered the kingdom's deeper conspiracies, Act III begins.
 
 ### Act III: The Unraveling, The Void Lake, and The Primordial Loom
@@ -164,20 +166,20 @@ flowchart TD
 #### 1. The Descent into The Slab and Underworks
 Instead of ascending into light, Act III forces Hornet downward into the horrific industrial underbelly of the kingdom [Tier 1]:
 - **The Slab:** A brutalist penal citadel carved into black granite where political dissidents, heretics, and failed pilgrims are incarcerated and processed [Tier 1]. Hornet must orchestrate a prison break, liberating allied NPCs while surviving elite Citadel torturers [Tier 1].
-- **The Underworks:** Beneath the prison lies the Underworks—a vast network of grinding gears, brass pipes, and drainage cisterns [Tier 1]. Here, Hornet uncovers the grotesque reality of Pharloom's silk economy: pilgrims are strapped into automated drainage vats, their life-force pumped upward to feed the lavish lifestyles of the high clergy [Tier 1].
+- **The Underworks:** Beneath the prison lies the Underworks - a vast network of grinding gears, brass pipes, and drainage cisterns [Tier 1]. Here, Hornet uncovers the grotesque reality of Pharloom's silk economy: pilgrims are strapped into automated drainage vats, their life-force pumped upward to feed the lavish lifestyles of the high clergy [Tier 1].
 
 #### 2. The Awakening of the Subterranean Void Lake
 In the deepest foundations beneath the Underworks, Hornet makes a terrifying discovery: Pharloom is built directly atop a massive subterranean lake of **Void** [Tier 1].
 - **The Universal Substance:** Confirming that Void is not a local anomaly unique to Hallownest’s Abyss, Pharloom’s subterranean bedrock rests upon the same primordial ocean of pure darkness [Tier 1].
-- **The Black Thread Mutation:** Decades of excessive industrial pressure and seismic excavation cracked the subterranean crust, allowing Void to seep into the kingdom's pressurized silk-ducts [Tier 1]. When pure biological silk contacts raw Void, it undergoes a horrific chemical mutation, generating **Black Silk**—a viscous, entangling filament that absorbs light and corrupts living minds [Tier 1]. This explains the true origin of The Haunting: it was not merely biological aging, but the corrupting touch of the Void invading the divine loom [Tier 1].
+- **The Black Thread Mutation:** Decades of excessive industrial pressure and seismic excavation cracked the subterranean crust, allowing Void to seep into the kingdom's pressurized silk-ducts [Tier 1]. When pure biological silk contacts raw Void, it undergoes a horrific chemical mutation, generating **Black Silk** - a viscous, entangling filament that absorbs light and corrupts living minds [Tier 1]. This explains the true origin of The Haunting: it was not merely biological aging, but the corrupting touch of the Void invading the divine loom [Tier 1].
 
 #### 3. The Tragedy and Corruption of Lace
 The narrative emotional peak of Act III centers on Hornet’s rival, **Lace** [Tier 1]:
 - Having lost her status and purpose following the collapse of the High Citadel, Lace ventured deep into the Whispering Vaults, seeking the hidden truth of Pharloom’s origins [Tier 1].
-- Exposed to the concentrated Void lake and the shrieking discordance of the frayed strings, Lace’s fragile, performance-based identity fractured [Tier 1]. She was overcome by the Black Silk, which wrapped around her limbs and infected her gilded needle, transforming her into **Lost Lace**—a tragic, weeping phantom puppeteered by shadowy filaments [Tier 1].
+- Exposed to the concentrated Void lake and the shrieking discordance of the frayed strings, Lace’s fragile, performance-based identity fractured [Tier 1]. She was overcome by the Black Silk, which wrapped around her limbs and infected her gilded needle, transforming her into **Lost Lace** - a tragic, weeping phantom puppeteered by shadowy filaments [Tier 1].
 - In the solemn, echoing depths of the **Whispering Vaults**, Hornet faces Lost Lace in one of the game's most demanding boss battles [Tier 1]. Lace attacks with erratic, glitching lunges, shadowy needle beams, and desperate aerial pirouettes while weeping discordant notes [Tier 1]. By defeating her, Hornet severs the void-threads, sparing Lace's life and restoring her consciousness, transforming their mocking rivalry into genuine mutual respect and shared survival [Tier 1].
 
 #### 4. The Primordial Loom and Cosmic Resolution
-Armed with her ancestral needle, the awakened crests of Pharloom, and her synthesized understanding of Silk and Void, Hornet descends to the absolute foundation of the world: **The Primordial Loom** [Tier 1]. There, she confronts Grand Mother Silk's final, desperate incarnation—an entity that attempted to weave the encroaching Void into her sacred tapestry, resulting in a horrifying, multi-phased cosmic chimera of white thread and black shadow [Tier 1].
+Armed with her ancestral needle, the awakened crests of Pharloom, and her synthesized understanding of Silk and Void, Hornet descends to the absolute foundation of the world: **The Primordial Loom** [Tier 1]. There, she confronts Grand Mother Silk's final, desperate incarnation - an entity that attempted to weave the encroaching Void into her sacred tapestry, resulting in a horrifying, multi-phased cosmic chimera of white thread and black shadow [Tier 1].
 
 By overcoming this entity, Hornet dismantles the mechanical theocracy of Pharloom once and for all, unlocking the game's expansive branching finales (*Silk and Soul*, *Song of Deliverance*, or *The Void Weaver*), resolving the historical debt of her ancestors and redefining what it means to be sovereign in a post-divine world [Tier 1].

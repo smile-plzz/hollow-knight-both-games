@@ -1,5 +1,7 @@
 # Area-by-Area Spatial Analysis and Social Architecture: Pharloom
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Object of Analysis:** The Complete Geography and Factional Architecture of Pharloom (22 Regions and Sub-Areas)
 - **Methodology:** Vertical Spatial Stratigraphy, Political Architecture, Sociological Topography
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)

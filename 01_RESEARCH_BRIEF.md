@@ -29,18 +29,18 @@
 
 ### Supporting Research Questions (RQs):
 
-- **RQ1 — World-Building & Spatial Architecture:** How do Hallownest and Pharloom establish distinct civilizational topologies through geography, architecture, cultural remnants, and environmental decay, contrasting Hallownest's subterranean descent with Pharloom's upward pilgrimage?
-- **RQ2 — Narrative Delivery & Epistemological Fragmentation:** In what ways do both games distribute historical and lore knowledge across fragmented environmental relics, NPC monologues, boss encounters, dream narratives, and musical motifs?
-- **RQ3 — Character Development & Protagonist Ontologies:** How do the Knight (an anonymous, hollow vessel constructed as a sacrificial instrument) and Hornet (a named, agile protector endowed with lineage, dialogue, and personal will) function as distinct entry points for player embodiment and agency?
-- **RQ4 — Civilization, Ideology, and Collapse:** What systemic contradictions precipitate the catastrophic declines of Hallownest and Pharloom? To what extent do their autocracies collapse due to an ontological refusal of transience and the exploitation of higher forces?
-- **RQ5 — Religion, Mythology, and Divinity:** How do higher beings (the Pale King, the Radiance, Grand Mother Silk), cultic worship, dreams, songs, and sacrificial rites construct and legitimate institutional authority?
-- **RQ6 — Consciousness, Free Will, and the Void:** What constitutes selfhood, memory, and agency in minds fashioned from void or silk? Does the Knight develop genuine will, or does it execute an assigned telos?
-- **RQ7 — Biology, Entomology, and Symbiosis:** How do real-world arthropod behaviors (eusociality, silk tensile chemistry, parasitism, metamorphosis, molting) inform the societies, movement mechanics, and ecological conflicts of both titles?
-- **RQ8 — Mechanics, Traversal, and Ludic Discovery:** How do ability gating, nail/needle combat, resource loops (Soul vs. Silk), and death mechanics transform the player from an external observer into an active co-constructor of historical meaning?
-- **RQ9 — Affect, Atmosphere, and Difficulty:** How do Christopher Larkin's musical scores, soundscapes, punishing combat loops, and the psychological weight of failure cultivate affects of melancholy, dread, tenacity, and reverence?
-- **RQ10 — Comparative Sequels & Iterative Design:** How does *Silksong* reframe, complicate, or subvert the narrative paradigms and mechanical axioms established in *Hollow Knight*?
-- **RQ11 — Creative Intentions:** How do Team Cherry's documented creative methodologies—from game jam prototypes (*Hungry Knight*) to traditional 2D animation and minimalist design—reflect a conscious rejection of conventional exposition?
-- **RQ12 — The Player's Moral Agency:** Does the player merely excavate inert historical ruins, or do player choices in navigating multiple endings implicate them in the perpetuation or dismantling of civilizational violence?
+- **RQ1 - World-Building & Spatial Architecture:** How do Hallownest and Pharloom establish distinct civilizational topologies through geography, architecture, cultural remnants, and environmental decay, contrasting Hallownest's subterranean descent with Pharloom's upward pilgrimage?
+- **RQ2 - Narrative Delivery & Epistemological Fragmentation:** In what ways do both games distribute historical and lore knowledge across fragmented environmental relics, NPC monologues, boss encounters, dream narratives, and musical motifs?
+- **RQ3 - Character Development & Protagonist Ontologies:** How do the Knight (an anonymous, hollow vessel constructed as a sacrificial instrument) and Hornet (a named, agile protector endowed with lineage, dialogue, and personal will) function as distinct entry points for player embodiment and agency?
+- **RQ4 - Civilization, Ideology, and Collapse:** What systemic contradictions precipitate the catastrophic declines of Hallownest and Pharloom? To what extent do their autocracies collapse due to an ontological refusal of transience and the exploitation of higher forces?
+- **RQ5 - Religion, Mythology, and Divinity:** How do higher beings (the Pale King, the Radiance, Grand Mother Silk), cultic worship, dreams, songs, and sacrificial rites construct and legitimate institutional authority?
+- **RQ6 - Consciousness, Free Will, and the Void:** What constitutes selfhood, memory, and agency in minds fashioned from void or silk? Does the Knight develop genuine will, or does it execute an assigned telos?
+- **RQ7 - Biology, Entomology, and Symbiosis:** How do real-world arthropod behaviors (eusociality, silk tensile chemistry, parasitism, metamorphosis, molting) inform the societies, movement mechanics, and ecological conflicts of both titles?
+- **RQ8 - Mechanics, Traversal, and Ludic Discovery:** How do ability gating, nail/needle combat, resource loops (Soul vs. Silk), and death mechanics transform the player from an external observer into an active co-constructor of historical meaning?
+- **RQ9 - Affect, Atmosphere, and Difficulty:** How do Christopher Larkin's musical scores, soundscapes, punishing combat loops, and the psychological weight of failure cultivate affects of melancholy, dread, tenacity, and reverence?
+- **RQ10 - Comparative Sequels & Iterative Design:** How does *Silksong* reframe, complicate, or subvert the narrative paradigms and mechanical axioms established in *Hollow Knight*?
+- **RQ11 - Creative Intentions:** How do Team Cherry's documented creative methodologies - from game jam prototypes (*Hungry Knight*) to traditional 2D animation and minimalist design - reflect a conscious rejection of conventional exposition?
+- **RQ12 - The Player's Moral Agency:** Does the player merely excavate inert historical ruins, or do player choices in navigating multiple endings implicate them in the perpetuation or dismantling of civilizational violence?
 
 ---
 
@@ -48,7 +48,7 @@
 
 Hollow Knight and Silksong construct fictional insect civilizations whose scale, cultural memory, and socio-biological institutions transcend the individual quests of their protagonists. Neither game relies on conventional exposition or direct moralization; rather, player comprehension is hermeneutically assembled through iterative traversal, mechanical mastery, environmental archaeological observation, and affective immersion.
 
-While *Hollow Knight* presents the tragedy of **Hallownest**—a civilization ruined by an autocratic Wyrm's obsessive pursuit of permanence, order, and containment through the brutal instrumentalization and mass sacrifice of hollow offspring—*Silksong* shifts to **Pharloom**, an active, ascending theocracy structured around silk, choral harmony, labor, and spiritual pilgrimage to the Citadel. 
+While *Hollow Knight* presents the tragedy of **Hallownest** - a civilization ruined by an autocratic Wyrm's obsessive pursuit of permanence, order, and containment through the brutal instrumentalization and mass sacrifice of hollow offspring - *Silksong* shifts to **Pharloom**, an active, ascending theocracy structured around silk, choral harmony, labor, and spiritual pilgrimage to the Citadel. 
 
 Together, the two works advance a unified critique:
 > **Civilizations succumb not merely to external biological blight or ecological scarcity, but to internal ideological pathologies: the sanctification of sacrifice, the monopolization of divine forces, the violent suppression of organic transience, and the systematic reduction of sentient beings into sacrificial tools.**

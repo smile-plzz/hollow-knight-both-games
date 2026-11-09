@@ -1,5 +1,7 @@
 # Character Relationship Maps and Network Topologies: Hallownest and Pharloom
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Objects of Analysis:** Social, Political, Familial, and Theological Networks in *Hollow Knight* and *Hollow Knight: Silksong*
 - **Methodology:** Sociometric Network Analysis, Diagrammatic Structuralism, Factional Topology
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)

@@ -1,5 +1,7 @@
 # The Endings of Pharloom: Theocratic Collapse, Void Resurgence, and Sovereignty in *Silksong*
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Object of Analysis:** The Five Canonical Endings of *Hollow Knight: Silksong* (2025)
 - **Theoretical Framework:** Political Theology, The Critique of Sovereign Succession, Sympoietic Liberation
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)
@@ -46,7 +48,7 @@ flowchart TD
 ### Ending 4: Sister of the Void (Cosmic Deicide and Annihilation)
 - **Unlocking Conditions:** Complete the "Silk and Soul" questline; carry the **Void-Stained Thread** acquired from the deepest Underworks; defeat the Primordial Loom; shatter the barrier between Pharloom and the subterranean Void Lake [Tier 1].
 - **Narrative Sequence:** As the Primordial Loom falters, Hornet stabs her needle into the abyssal floor, channeling the ancient Void dormant beneath Pharloom. The black lake erupts upward in a colossal tsunami of shadow. Tendrils of pure Void coil around Hornet’s arms, recognizing her royal Wyrm bloodline [Tier 1]. Together with the Void, Hornet violently rips the divine tapestry of Grand Mother Silk to shreds, dragging the high clergy and the golden spires of the Citadel into the pitch-black abyss [Tier 1]. 
-- **The Shadow Over Pharloom:** The entire Citadel collapses into rubble. Hornet emerges from the ruins walking calmly, her cloak stained inky black, flanked by shadows, her eyes glowing with abyssal majesty—a true "Sister of the Void" [Tier 1].
+- **The Shadow Over Pharloom:** The entire Citadel collapses into rubble. Hornet emerges from the ruins walking calmly, her cloak stained inky black, flanked by shadows, her eyes glowing with abyssal majesty - a true "Sister of the Void" [Tier 1].
 - **Philosophical Interpretation (The Apocalyptic Reset):** Echoes Ending 4 (*Embrace the Void*) of *Hollow Knight*. Represents radical, total deicide: the absolute eradication of a corrupt civilization through the unbridled fury of the cosmos [Tier 2]. It frees the oppressed, but leaves behind an inhospitable, haunted wasteland governed by shadows [Tier 2].
 
 ### Ending 5: Passing of the Age (The Cosmic Epilogue)

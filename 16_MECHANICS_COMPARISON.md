@@ -1,5 +1,7 @@
 # Comparative Ludic Systems and Mechanical Ontologies: Nail vs. Needle, Soul vs. Silk
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Objects of Analysis:** Core Gameplay Mechanics across *Hollow Knight* (2017) and *Hollow Knight: Silksong* (2025)
 - **Theoretical Framing:** Procedural Rhetoric (Bogost, 2007), Ergodic Embodiment (Aarseth, 1997; Calleja, 2011), Ludonarrative Integration
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)
@@ -70,7 +72,7 @@ graph TD
   - Operates as a free-form alchemical puzzle, allowing highly specialized emergent synergies (e.g., *Quick Slash* + *Mark of Pride* for nail reach; *Shaman Stone* + *Spell Twister* for devastating spell builds; *Shape of Unn* + *Quick Focus* for mobile slug-healing) [Tier 1].
   - Features the high-risk **Overcharming** mechanic: forcing an extra charm into an exhausted notch slot causes the Knight to take double damage from all attacks [Tier 1].
 - **The Crest & Tool System (Silksong):**
-  - Replaces free-form notches with **Crests**—foundational archetypes that fundamentally alter Hornet’s entire moveset, attack animations, and tool slots (e.g., *Hunter Crest* for raw speed; *Weaver Crest* for silk-trapping; *Wanderer Crest* for defensive parries) [Tier 1].
+  - Replaces free-form notches with **Crests** - foundational archetypes that fundamentally alter Hornet’s entire moveset, attack animations, and tool slots (e.g., *Hunter Crest* for raw speed; *Weaver Crest* for silk-trapping; *Wanderer Crest* for defensive parries) [Tier 1].
   - Each Crest provides color-coded slots for specialized, craftable physical equipment:
     - **Red Tools (Offensive):** Throwing knives, sting shards, pimpillo bombs, drill spikes [Tier 1].
     - **Yellow Tools (Mobility & Utility):** Compass pins, auto-gather magnets, thread-gliders, speed spools [Tier 1].
@@ -79,7 +81,7 @@ graph TD
 
 ### 2.4 Death Penalties and Epistemology of Failure
 - **The Shade (Hollow Knight):**
-  - Upon death, the Knight’s shell shatters, spilling its accumulated Geo and leaving behind its **Shade**—a hostile, hovering void wraith that occupies the exact spot of death [Tier 1].
+  - Upon death, the Knight’s shell shatters, spilling its accumulated Geo and leaving behind its **Shade** - a hostile, hovering void wraith that occupies the exact spot of death [Tier 1].
   - The Knight’s Soul meter is cracked, capping maximum Soul capacity until the Shade is tracked down and executed in personal combat [Tier 1].
   - *Psychological Meaning:* Forces a terrifying confrontation with the self. Death externalizes the repressed darkness within the vessel; to recover one's wealth, one must repeatedly slay one’s own soul [Tier 2].
 - **The Silk Cocoon (Silksong):**

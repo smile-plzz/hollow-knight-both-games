@@ -1,5 +1,7 @@
 # Boss Encounters, The Wishes System, and Communal Agency: *Hollow Knight: Silksong*
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Object of Analysis:** Major Boss Encounters, The Wishes System, and Optional Communal Questlines
 - **Theoretical Framing:** Combat Choreography as Characterization, Bohan Zhang's Backtracking Mechanics (2026), and The Ethics of Mutual Aid
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)
@@ -71,7 +73,7 @@ graph TD
 
 ## 2. The Wishes System: Communal Agency and Backtracking
 
-While *Hollow Knight* featured localized, individual NPC encounters, *Silksong* formalizes side activities into the **Wishes System**—a kingdom-spanning quest board and personal commission registry maintained at shrines and town bulletin boards throughout Pharloom [Tier 1].
+While *Hollow Knight* featured localized, individual NPC encounters, *Silksong* formalizes side activities into the **Wishes System** - a kingdom-spanning quest board and personal commission registry maintained at shrines and town bulletin boards throughout Pharloom [Tier 1].
 
 ```mermaid
 flowchart LR

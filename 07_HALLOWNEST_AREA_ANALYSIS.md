@@ -1,5 +1,7 @@
 # Area-by-Area Spatial Analysis and Environmental Storytelling: Hallownest
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Object of Analysis:** The Complete Geography of Hallownest (23 Regions and Sub-Areas)
 - **Methodology:** Spatial Narratology, Architectural Hermeneutics, Ecocritical Topology
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)

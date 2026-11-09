@@ -1,5 +1,7 @@
 # Master Character Encyclopedia: Origins, Build-Up, and Psychological Profiles: *Hollow Knight: Silksong*
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Object of Analysis:** Complete Personages, Clergy, Duelists, Artisans, and Cosmic Entities of Pharloom (32 Character Dossiers)
 - **Theoretical Framing:** Character Ontologies, Theatricality, Hybrid Kinship, and Voiced Agency
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)
@@ -12,7 +14,7 @@
 - **Origin Story & Historical Antecedents:** The biological daughter of the Pale King (Wyrm) and Herrah the Beast (Spider Matriarch of Deepnest) [Tier 1]. A unique living hybrid bridging two hostile civilizational paradigms: the luminous, imperial intellect of the Pale Beings and the predatory, silk-spinning weaving of the ancient arachnids [Tier 1]. Conceived as part of a sovereign diplomatic bargain to recruit Herrah as a Dreamer, Hornet was raised by the Weavers in Deepnest, trained in lethal needle combat, and inherited natural silk glands [Tier 1].
 - **Narrative Build-Up & Encounter Arc:** In the prologue, Hornet is captured by a silk-hunting caravan from Pharloom and transported in a cage bound by glowing silk talismans [Tier 1]. Shattering her cage at the bridge threshold, she plunges into the verdant depths of Moss Grotto with her silk glands severely depleted [Tier 1]. Her journey is a relentless vertical ascent: regaining her abilities, navigating the theocratic hierarchy, challenging the Citadel's high clergy, and discovering that her own Weaver ancestors fled this exact kingdom centuries ago [Tier 1].
 - **Psychological Depth & Voiced Agency:** Unlike the silent, passive, tabula-rasa Vessel of the original game, Hornet is a **fully voiced, self-directed protagonist** [Tier 1]. She speaks with aristocratic cadence, razor wit, and pragmatic suspicion. She challenges hypocritical clergy, lectures naive pilgrims, and refuses to let another civilization strangle upon its own sacred lies [Tier 1].
-- **Ludic Integration:** Acrobatic and predatory. Wielding a double-ended **Needle**, she executes diagonal downward lunges (45-degree dive), mantles ledges, sprints freely, and deploys **Bind**—an instantaneous mid-air triage ability that knits three masks of health simultaneously [Tier 1].
+- **Ludic Integration:** Acrobatic and predatory. Wielding a double-ended **Needle**, she executes diagonal downward lunges (45-degree dive), mantles ledges, sprints freely, and deploys **Bind** - an instantaneous mid-air triage ability that knits three masks of health simultaneously [Tier 1].
 - **Thematic Significance & Fate:** Represents the possibility of breaking institutional cycles. She avoids the Pale King’s error of sacrificial permanence, liberating Pharloom from its parasitic loom and stepping into the unwritten world beyond [Tier 2].
 
 ### 1.2 Lace (The Gilded Duelist)
@@ -36,7 +38,7 @@
 ### 1.5 Cogwork Dancers (The Clockwork Twins)
 - **Origin Story:** Precision automatons crafted from gilded brass, clockwork gears, and silk-tension springs by Citadel artisans to replace fallible living guards [Tier 1].
 - **Encounter & Mechanics:** Presiding over the grand ballroom of the Citadel, the twin automatons execute a lethal mechanical waltz [Tier 1]. Their razor-sharp hoop skirts slice through space as they leap and spin with mathematical synchronicity, forcing Hornet to dance between their interlocking hitboxes [Tier 1].
-- **Thematic Function:** The chilling manifestation of pure mechanization—living culture replaced by immortal, unfeeling clockwork spectacle [Tier 2].
+- **Thematic Function:** The chilling manifestation of pure mechanization - living culture replaced by immortal, unfeeling clockwork spectacle [Tier 2].
 
 ### 1.6 The Fourth Chorus & High Prelates
 - **Origin & Role:** The ecclesiastical governing council of Songclave [Tier 1]. Composed of masked monks and hymn-writers who monitor the acoustic resonance of the pipe organs, ensuring that the Sacred Song continuously pacifies the working classes [Tier 1].

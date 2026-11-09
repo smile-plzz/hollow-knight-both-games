@@ -48,3 +48,17 @@
 - Total research suite expanded to 55,867 words across 27 markdown documents.
 - Produced user walkthrough and verification report artifact `walkthrough.md`.
 
+
+## [2026-11-09T13:37:00+06:00] - Phase 0 Triage and Honesty Pass Executed
+- Received handoff document (`HANDOFF.md`) establishing scope decisions from Ismail: focus on honest portfolio game studies, remove unearned self-certifications, rely on labeled secondary evidence, and adopt a strict no em-dashes writing style.
+- Created branch `triage-and-honesty-pass`.
+- Added active verification notice banners to `README.md`, `00_PROJECT_README.md`, and supporting files `05` through `18`.
+- Relabeled `21_PEER_REVIEW.md` as "Simulated multi-perspective review (AI)" and `22_REVISION_AND_INTEGRITY_REPORT.md` as "AI self-audit and revision notes (not independent)". Stripped all unearned "PASS (Zero Violations)" certificate claims.
+- Corrected authorship across `20_FULL_RESEARCH_PAPER.md` and `23_PROCESS_RECORD.md` to identify Ismail as author/curator and the AI as qualitative drafting assistant.
+- Added natural story-flow AI disclosure passages to `README.md` and `20_FULL_RESEARCH_PAPER.md`.
+- Removed leaked Vim instruction tutorial from `23_PROCESS_RECORD.md`.
+- Reconciled deliverables inventory and word counts across `23_PROCESS_RECORD.md` and `walkthrough.md` with measured counts.
+- Resolved `walkthrough.md` repository reference by creating the file in repo root.
+- Fixed Ludum Dare historical chronology in `20_FULL_RESEARCH_PAPER.md` (Ludum Dare 27: August 2013; Ludum Dare 29: April 2014).
+- Implemented and executed automated testing script `tools/audit.py` to audit word counts, citation presence, honesty labels, and zero em-dashes across all Markdown files.
+- Replaced all em-dashes across the repository with appropriate colons, hyphens, commas, or parentheses.

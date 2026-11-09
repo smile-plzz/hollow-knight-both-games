@@ -37,20 +37,20 @@
 ### Morales-Primo, A. U. (2026). Hornet's web: Weaving the biology of silk into Hollow Knight: Silksong. *Journal of Geek Studies*, 13(1), 29–36. https://doi.org/10.5281/zenodo.19487722
 - **Disciplinary Focus:** Biological Sciences, Entomological Biomimetics, Game Studies.
 - **Methodology & Theoretical Framework:** Comparative biomimetic analysis evaluating Hornet's ludic abilities against real-world arthropod silk biochemistry, dragline mechanics, and arachnid physiological morphology.
-- **Core Findings & Analytical Relevance:** Morales-Primo provides a rigorous scientific assessment of silk as both material culture and gameplay mechanic in *Silksong*. The article details how silk's tensile strength, liquid-crystalline spinning, and elasticity are translated into Hornet's rapid traversal (Silk Soar, grappling needle) and restorative biology (Bind mechanic). It notes that Hornet's unique hybrid biology—born of the Wyrm (Pale King) and the Spider (Herrah the Beast)—embodies the evolutionary convergence of venomous predation and architectural weaving, grounding fictional game mechanics in authentic entomological principles.
+- **Core Findings & Analytical Relevance:** Morales-Primo provides a rigorous scientific assessment of silk as both material culture and gameplay mechanic in *Silksong*. The article details how silk's tensile strength, liquid-crystalline spinning, and elasticity are translated into Hornet's rapid traversal (Silk Soar, grappling needle) and restorative biology (Bind mechanic). It notes that Hornet's unique hybrid biology - born of the Wyrm (Pale King) and the Spider (Herrah the Beast) - embodies the evolutionary convergence of venomous predation and architectural weaving, grounding fictional game mechanics in authentic entomological principles.
 
 ---
 
 ## 2. Foundational Game Studies & Spatial Narratology
 
 ### Jenkins, H. (2004). Game design as narrative architecture. In N. Wardrip-Fruin & P. Harrigan (Eds.), *First person: New media as story, performance, and game* (pp. 118–130). MIT Press.
-- **Annotation:** Jenkins conceptualizes game designers not as conventional storytellers, but as narrative architects who sculpt spaces pregnant with narrative potential. His four spatial narrative modalities—evocative spaces, enacting stories, embedded narratives, and emergent narratives—provide the core analytical framework for decoding how Hallownest and Pharloom encode historical collapse into their physical architecture.
+- **Annotation:** Jenkins conceptualizes game designers not as conventional storytellers, but as narrative architects who sculpt spaces pregnant with narrative potential. His four spatial narrative modalities - evocative spaces, enacting stories, embedded narratives, and emergent narratives - provide the core analytical framework for decoding how Hallownest and Pharloom encode historical collapse into their physical architecture.
 
 ### Aarseth, E. J. (1997). *Cybertext: Perspectives on ergodic literature*. Johns Hopkins University Press.
 - **Annotation:** Aarseth introduces the concept of "ergodic literature," wherein the reader/player must expend non-trivial effort to traverse and reconstruct the text. In *Hollow Knight* and *Silksong*, narrative comprehension requires strenuous ludic labor: surviving brutal boss encounters, navigating lethal platforming gauntlets (e.g., the Path of Pain, Mount Fay), and actively synthesizing fragmented inscriptions.
 
 ### Bogost, I. (2007). *Persuasive games: The expressive power of videogames*. MIT Press.
-- **Annotation:** Bogost's theory of "procedural rhetoric"—the practice of making arguments through processes, rules, and computational systems—is foundational for analyzing how resource management (Soul vs. Silk) and death penalties (recovering one's Shade or Shell Cocoon) procedurally argue for the fragility of consciousness and the material cost of survival.
+- **Annotation:** Bogost's theory of "procedural rhetoric" - the practice of making arguments through processes, rules, and computational systems - is foundational for analyzing how resource management (Soul vs. Silk) and death penalties (recovering one's Shade or Shell Cocoon) procedurally argue for the fragility of consciousness and the material cost of survival.
 
 ### Juul, J. (2005). *Half-real: Video games between real rules and fictional worlds*. MIT Press.
 - **Annotation:** Juul explores the dual nature of games as amalgamations of real formal rules and fictional, imagined worlds. Applied to Team Cherry's design, Juul's framework elucidates how abstract platforming rules (jump arcs, hitboxes, invulnerability frames) seamlessly coalesce with the fictional embodiment of insect agility and chitinous fragility.
@@ -75,7 +75,7 @@
 - **Annotation:** Chang articulates an environmental approach to digital game design, critiquing anthropocentric resource exploitation paradigms. Essential for analyzing how *Hollow Knight* and *Silksong* decenter the human subject, compelling players to navigate world systems governed by nonhuman metabolic, fungal, and insectoid rhythms.
 
 ### Morton, T. (2016). *Dark ecology: For a logic of future coexistence*. Columbia University Press.
-- **Annotation:** Morton's "dark ecology" emphasizes the strange, shadowy, melancholic enmeshment of lifeforms within vast, interconnected biosphere systems ("the mesh"). Directly applies to Hallownest's infection—which is neither pure evil nor pure nature, but a luminous, parasitic psychic entanglement that collapses boundaries between life, death, dream, and decay.
+- **Annotation:** Morton's "dark ecology" emphasizes the strange, shadowy, melancholic enmeshment of lifeforms within vast, interconnected biosphere systems ("the mesh"). Directly applies to Hallownest's infection - which is neither pure evil nor pure nature, but a luminous, parasitic psychic entanglement that collapses boundaries between life, death, dream, and decay.
 
 ### Bennett, J. (2010). *Vibrant matter: A political ecology of things*. Duke University Press.
 - **Annotation:** Bennett's vital materialism theorizes the nonhuman agency and "thing-power" of inanimate and material substances. Provides a critical vocabulary for analyzing how the Void, Soul, and Silk operate not merely as passive magical currencies, but as active, vital material forces capable of autonomous resistance, collective uprising, and ontological transformation.
@@ -97,10 +97,10 @@
 - **Annotation:** The seminal philosophical parable exploring the moral bankruptcy of utilitarian social utopias built upon the deliberate, unceasing torment of a scapegoated child. Provides the ethical archetype against which the Pale King's creation and abandonment of millions of Vessel children in the Abyss is interrogated.
 
 ### Agamben, G. (1998). *Homo sacer: Sovereign power and bare life* (D. Heller-Roazen, Trans.). Stanford University Press.
-- **Annotation:** Agamben theorizes sovereign power through the production of *homo sacer*—life that can be killed with impunity but not sacrificed within religious law ("bare life"). In *Hollow Knight*, the Vessels represent the ultimate incarnation of bare life: engineered outside civil citizenship, devoid of recognized kinship, and slaughtered wholesale to secure sovereign political permanence.
+- **Annotation:** Agamben theorizes sovereign power through the production of *homo sacer* - life that can be killed with impunity but not sacrificed within religious law ("bare life"). In *Hollow Knight*, the Vessels represent the ultimate incarnation of bare life: engineered outside civil citizenship, devoid of recognized kinship, and slaughtered wholesale to secure sovereign political permanence.
 
 ### Camus, A. (1942). *The myth of Sisyphus and other essays* (J. O'Brien, Trans.). Vintage Books.
-- **Annotation:** Camus's philosophy of the absurd—the confrontation between human longing for meaning and the cold indifference of the cosmos—illuminates the player's experience of repetitive death, brutal failure, and unyielding persistence in the face of insurmountable divine and cosmic adversaries.
+- **Annotation:** Camus's philosophy of the absurd - the confrontation between human longing for meaning and the cold indifference of the cosmos - illuminates the player's experience of repetitive death, brutal failure, and unyielding persistence in the face of insurmountable divine and cosmic adversaries.
 
 ### Nagel, T. (1979). The absurd. In *Mortal questions* (pp. 11–23). Cambridge University Press.
 - **Annotation:** Nagel analyzes absurdity as arising from the perpetual collision between the internal seriousness with which we view our commitments and the external perspective from which they appear arbitrary. Relevant to the tragic futility of Hallownest's Great Knights and Pharloom's devoted pilgrims.

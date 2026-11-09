@@ -1,5 +1,7 @@
 # Cross-Game Continuity, Lore Architecture, and Unresolved Mysteries: Hallownest and Pharloom
 
+> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+
 - **Objects of Analysis:** Inter-Kingdom Connections across *Hollow Knight* (2017) and *Hollow Knight: Silksong* (2025)
 - **Theoretical Framing:** Trans-Fictional World-Building, Epistemic Fragmentation, and Canon Demarcation
 - **Epistemic Standards:** Tier 1 (Confirmed Canon), Tier 2 (Strongly Supported Interpretation), Tier 3 (Speculative Theory)
@@ -77,7 +79,7 @@ Following *Silksong*'s announcement in 2019, a prominent fan hypothesis posited 
 However, official developer records and in-game dialogue conclusively refute the prequel hypothesis [Tier 1]:
 - **Developer Confirmation:** Team Cherry’s official reveal announcement (February 14, 2019) and subsequent blog updates explicitly define *Silksong* as the **"standalone sequel to Hollow Knight"** [Tier 1].
 - **Diegetic In-Game Evidence:** In *Silksong*, Hornet makes direct, unambiguous references to Hallownest as a fallen, ruined kingdom of her past:
-  > *"I have seen one kingdom drown in its own proud silence... I will not watch another strangle upon its own song."* — Hornet dialogue in the Citadel [Tier 1].
+  > *"I have seen one kingdom drown in its own proud silence... I will not watch another strangle upon its own song."* - Hornet dialogue in the Citadel [Tier 1].
 - Furthermore, Hornet possesses intimate, firsthand knowledge of the dangers of the Void, the tragedy of the Vessels, and the failure of royal monuments, which could only have been acquired through the events of *Hollow Knight* [Tier 1].
 
 ### 3.2 Which *Hollow Knight* Ending is Canonical?
