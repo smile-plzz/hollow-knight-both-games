@@ -10,6 +10,12 @@ The repo is a complete-looking but unverified AI draft. It holds an 11.8k-word m
 
 Treat every "Verified", "PASS", "Tier 1 Confirmed Canon" and "independent" label in the repo as a claim to be tested, not a result.
 
+Decisions from Ismail (2026-11-09) that shape everything below:
+- Goal: portfolio and hobby game research, not coursework or a journal submission. The bar is "honest and checkable", not "peer-review ready". Stay strict on never inventing sources, and relax formal journal conventions.
+- Evidence: lean on clearly labeled secondary sources (no playthrough captures).
+- Supporting files 05 to 18: keep all of them.
+- AI disclosure: a natural story-flow account of how the work was made, not a boilerplate disclaimer.
+
 ## 2. What the repo contains
 
 | Area | Files | State |
@@ -50,7 +56,7 @@ Not checked, from my own knowledge only (verify): the paper dates Ludum Dare 27 
 
 4.4 Evidence density is far below the confidence shown. The paper carries 175 "[Tier 1]" tags, 46 "[Tier 2]" and none for Tier 3, although 5.2 promises speculative claims are marked. The claim register has 20 rows, so the "100% claim audit" covers about one tenth of the Tier 1 assertions. Manuscript sections 6 to 8, the core lore reconstruction, contain no in-text citations.
 
-4.5 Authorship and disclosure. The paper lists "Lead Authors: Academic Game Studies Research Collaborative" and the process record lists an "Antigravity Collaborative Academic Team" as principal investigators. Ismail is the actual author. Needs a plain AI-assistance disclosure. 23_PROCESS_RECORD also contains a Vim tutorial that leaked from another tool's persistent instruction. Remove it.
+4.5 Authorship and disclosure. The paper lists "Lead Authors: Academic Game Studies Research Collaborative" and the process record lists an "Antigravity Collaborative Academic Team" as principal investigators. Ismail is the actual author. The AI's role needs to be told honestly, in a natural narrative (see Phase 0). 23_PROCESS_RECORD also contains a Vim tutorial that leaked from another tool's persistent instruction. Remove it.
 
 4.6 Internal inconsistencies. Examples of per-file word counts in 23_PROCESS_RECORD versus a measured count: 07 claims 3,850 and has 1,899; 12 claims 3,920 and has 1,786; 08 claims 4,110 and has 2,591; 13 claims 3,880 and has 1,990; 00 claims 1,180 and has 749. CHANGELOG says 24 deliverables, the README lists more. dev-log and CHANGELOG cite a `walkthrough.md` that is not in the repo.
 
@@ -71,7 +77,8 @@ Run phases in order. Phases 1 and 2 split cleanly across parallel agents.
 ### Phase 0: triage and honesty pass (one session)
 - Branch, then add a status banner to README: "AI-generated draft. Sources and claims under verification."
 - Relabel 21 as "Simulated multi-perspective review (AI)" and 22 as "AI self-audit, not independent". Remove the "PASS" certificate language.
-- Fix authorship lines, add an AI-assistance disclosure, delete the Vim section, reconcile word counts, resolve the walkthrough.md reference.
+- Fix authorship lines, delete the Vim section, reconcile word counts, resolve the walkthrough.md reference.
+- Disclosure, per Ismail: write a short "how this was made" passage in story form for the README and the paper's opening or closing (for example: Ismail set the question, an AI agent drafted the research suite in one session, and the second pass was spent checking its sources and claims). It must stay plainly truthful about what the AI did and what was verified. A narrative tone is fine, hiding or vagueness is not.
 - Done when: no document claims independence, certification or verification that did not happen.
 
 ### Phase 1: source verification (parallel, one agent per source)
@@ -81,9 +88,9 @@ For each of the 38 references create `verification/<bibkey>.md` with: URL, retri
 - Done when: every reference has a status, no NOT FOUND source remains in the paper, and each scholarly attribution matches the text it cites.
 
 ### Phase 2: primary-evidence ledger
-A cloud agent cannot play either game. Decide with Ismail which evidence route to use, and record it in the ledger.
-- Route A: Ismail supplies captures, notes or transcripts for the passages that matter.
-- Route B: use community wikis and Team Cherry material as clearly labeled secondary sources, with page and retrieval date.
+A cloud agent cannot play either game, and Ismail chose the secondary-source route (no captures).
+- Use community wikis, Team Cherry posts and developer interviews as clearly labeled secondary sources, each with page title, URL and retrieval date. Where wikis disagree, note it. Add a "Source basis" line to the paper stating that lore claims rest on secondary sources, not first-hand playthrough.
+- Prefer the official or best-maintained wiki per game and stay consistent. Do not present a wiki paraphrase as a first-hand reading of in-game text.
 - Build `evidence_ledger.csv`: claim_id, game, region or NPC or item, short in-game text anchor (paraphrase or under 15 words), game version, how obtained, tier, paper section. Extend CLM from 20 rows to cover every [Tier 1] sentence (about 175), and add real Tier 3 rows.
 - Done when: a script reports 100% of [Tier 1] sentences in the paper map to a ledger row with a source.
 
@@ -100,7 +107,7 @@ A cloud agent cannot play either game. Decide with Ismail which evidence route t
 Use a fresh agent with no access to the authoring context and an adversarial brief, sampling claims against sources. Add Ismail or a human reader. Log the result as "AI-assisted review", never as peer review.
 
 ### Phase 5: scope and delivery
-Decide the venue (course paper, blog series, journal submission), convert to the required format, and decide what happens to the 20 supporting files. Recommendation: keep them as working notes, label them unsourced, and promote only the parts the ledger supports.
+Venue is a portfolio and hobby project, so publish it as a readable repo or site rather than a journal manuscript. Keep all 20 supporting files (Ismail's decision), but add a banner to each: "Working notes, drafted with AI, sources not yet checked line by line", and promote a section out of that status only once the ledger backs it. Optional later: a short blog-style version of the paper for a portfolio page.
 
 ## 6. Suggested tooling (small, one-time)
 `tools/audit.py` to run on every commit: reference-versus-body citation check, tier tag counts per section, ledger coverage percent, word counts per file compared with the process record, and a lint for placeholder text. Add a link checker that runs where outbound access is allowed.
@@ -113,11 +120,13 @@ Decide the venue (course paper, blog series, journal submission), convert to the
 - Writing style for Ismail: no em-dashes.
 - Commit per phase with a plain message. Push access needs the repo attached with push permission.
 
-## 8. Open questions for Ismail
-1. What is the goal: coursework, portfolio piece, or journal submission? It sets the rigor bar and the cut list.
-2. Can you supply playthrough notes or captures for the evidence ledger, or should the work lean on labeled secondary sources?
-3. Do you want the 20 supporting files kept, trimmed, or demoted to working notes?
-4. How should AI assistance be disclosed in the final piece?
+## 8. Decisions from Ismail (answered 2026-11-09)
+1. Goal: portfolio and hobby work, possibly game research later.
+2. Evidence: lean on labeled secondary sources.
+3. Supporting files: keep all of them (as labeled working notes, see Phase 5).
+4. AI disclosure: natural story flow (see Phase 0).
+
+Remaining small question: should the Zhang (ICCT 2026) source be dropped outright if it cannot be found, or replaced by a verified alternative on backtracking in Metroidvanias? Default if unanswered: drop it and rework 3.1 and CLM-011 around verified sources.
 
 ## 9. Coverage of this analysis
 Read in full: README, context, dev-log, CHANGELOG, 00, 01, 02, 19, 21, 22, 23. Read in part: paper (sections 1 to 6, 19 to references, plus a heading and citation scan of the rest), 03, 04. Scanned by word count and headings only: 05 to 18, references.bib. External spot checks are listed in section 3. The repo's claims about game lore were not tested against the games.
