@@ -102,3 +102,9 @@
 - Created 	imelines/cross_game_continuity.md establishing a structured continuity register across protagonist lineage, weaver migration, soul/silk economies, nail/needle kinetics, and spatial inversions (claims CLM-CC-001 to CLM-CC-008).
 - Included verified release and production strips across all timelines (Ludum Dare 27 in August 2013, Ludum Dare 29 in April 2014, Kickstarter in late 2014, HK launch in 2017, Silksong reveal in 2019, launch in September 2025, and Sea of Sorrow announcement in December 2025).
 - Audited for zero em-dashes and zero en-dashes across all generated files.
+
+## [2026-11-09T15:50:00+06:00] - Phase E: Hollow Knight Story Deep Dives
+- Authored twelve modular story deep dives in lore/hk_*.md (Void and Cosmic Layers, Wyrm and Radiance, Pale King and Hallownest Founding, Vessels and the Abyss, The Dreamers, The Infection, Urban Class and Soul Sanctum, Hornet and Deepnest, Sovereign Regional Tribes, The Grimm Troupe, Godhome and Pantheons, and The Knight's Journey and Endings).
+- Formatted every file with standardized 5-part architecture: Tier 1 confirmed canon with claim IDs, Tier 2 strongly supported inferences, Tier 3 speculative readings and gaps, thematic significance, and open research questions.
+- Recorded 144 atomic claims into data/claims_hk.csv, mapping every claim to verified entities and secondary source IDs.
+- Audited for zero em-dashes and zero en-dashes across all generated deep dive files.
