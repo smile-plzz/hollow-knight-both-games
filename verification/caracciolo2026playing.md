@@ -22,3 +22,4 @@ Caracciolo shifts focus from conventional video game world-building to "world di
 
 ## 3. Epistemic Assessment and Attribution Calibration
 - Metadata matches Intellect Discover publishing platform. The conceptualization of world disruption accurately reinforces the manuscript's comparative thesis regarding the fall of Hallownest and Pharloom.
+

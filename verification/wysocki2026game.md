@@ -23,3 +23,4 @@ Wysocki provides a scholarly game review of *Hollow Knight: Silksong*, analyzing
 ## 3. Epistemic Assessment and Attribution Calibration
 - **Previous Discrepancy:** The initial draft attributed a dense textual apparatus concerning somatic fluid extraction directly to Wysocki. While Wysocki examines the religious aesthetics, judgment motifs, and pilgrimage structure, the specific biological extraction theory belongs to broader game analysis.
 - **Calibration Action:** Bounded Wysocki's citation strictly to his aesthetic, liturgical, and pilgrimage critiques.
+

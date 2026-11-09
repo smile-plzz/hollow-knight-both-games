@@ -22,3 +22,4 @@ Andriano and Caracciolo investigate the environmental imagination of Metroidvani
 
 ## 3. Epistemic Assessment and Attribution Calibration
 - Metadata matches official Septentrio repository records. The ecocritical framing accurately supports the manuscript's environmental arguments.
+

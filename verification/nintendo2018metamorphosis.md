@@ -20,3 +20,4 @@ The feature traces the design and commercial evolution of *Hollow Knight* follow
 
 ## 3. Epistemic Assessment and Attribution Calibration
 - The interview exists and accurately documents Team Cherry's design philosophy and development trajectory.
+

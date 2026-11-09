@@ -20,3 +20,4 @@ Composer Christopher Larkin details his compositional philosophy for Team Cherry
 
 ## 3. Epistemic Assessment and Attribution Calibration
 - In `references.bib`, the title was previously listed as *"Christopher Larkin on the Haunting, Melancholic Scores of Hollow Knight and Silksong"*. The verified article headline in *Bandcamp Daily* is *"Christopher Larkin Doesn't Score Video Games, He Creates Worlds"*. The bibliographic entry has been corrected to reflect the exact verified title.
+

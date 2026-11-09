@@ -24,3 +24,4 @@ Morales-Primo evaluates protagonist Hornet's combat and traversal abilities thro
 - **Critical Corrections Executed:**
   - CLM-015 previously claimed Morales-Primo provided "empirical frame data" for Hornet's Bind ability. Morales-Primo conducts qualitative biological comparison, not video game frame-rate engineering. That citation has been removed from CLM-015.
   - CLM-007 previously claimed silk in the game "mirrors major ampullate silk biopolymers". Morales-Primo compares behavioral hunting mechanics (spitting and bolas spiders), not chemical laboratory spectrometry. The claim text in CLM-007 has been calibrated strictly to the author's actual comparative behavioral findings.
+

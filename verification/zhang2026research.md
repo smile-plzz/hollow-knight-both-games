@@ -24,3 +24,4 @@ The paper examines the structural and ludonarrative function of backtracking in 
 ## 3. Epistemic Assessment and Attribution Calibration
 - **Previous Discrepancy:** The initial draft mistakenly expanded ICCT as "International Conference on Computer Technologies". The actual conference is the "International Conference on Culture Technology" organized by IACST.
 - **Calibration Action:** Corrected conference title in `references.bib` and `03_ANNOTATED_BIBLIOGRAPHY.md`. The core thematic attribution in the manuscript accurately reflects the author's theoretical model.
+

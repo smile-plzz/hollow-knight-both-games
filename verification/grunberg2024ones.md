@@ -22,3 +22,4 @@ Grunberg analyzes *Hollow Knight* through the philosophical framework of Ursula 
 
 ## 3. Epistemic Assessment and Attribution Calibration
 - The citation metadata and theoretical attribution match the author's published work.
+

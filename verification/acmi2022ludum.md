@@ -20,3 +20,4 @@ ACMI documents Team Cherry's design history from early game jams (*Hungry Knight
 ## 3. Epistemic Assessment and Attribution Calibration
 - **Critical Correction Executed:**
   - The manuscript previously cited ACMI for a specific claim that "90% of the internal civilizational history was drafted before fragmenting into environmental indices." While ACMI documents Team Cherry's extensive internal world-building and design binders, the exact numerical figure "90%" is unverified and has been removed from the manuscript and claim matrix.
+
