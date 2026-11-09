@@ -24,7 +24,7 @@
 - **Methodology & Theoretical Framework:** Narrative analysis of world disruption and environmental precariousness across contemporary digital games, featuring comparative analysis of *Hollow Knight: Silksong* and *Elden Ring*.
 - **Core Findings & Analytical Relevance:** Caracciolo investigates how video game worlds foreground systemic fragility rather than static fictional containment. In *Silksong*, the world of Pharloom is analyzed as a society under severe theological and material strain, where the vertical ascent toward the Citadel continuously exposes the fissures between the sacred myth of the Pilgrimage and the mechanical exploitation of insect labor and silk extraction. Provides a vital theoretical bridge linking Pharloom's vertical geography to narrative disruptions of institutional authority.
 
-### Zhang, B. (2026). Research on the backtracking narrative mechanism in Metroidvania games. In *Proceedings of the 2026 International Conference on Computer Technologies (ICCT 2026)*. International Association of Computer Science and Information Technology.
+### Zhang, B. (2026). Research on the backtracking narrative mechanism in Metroidvania games. In *Proceedings of the 9th International Conference on Culture Technology (ICCT 2026)*. International Association for Convergence Science & Technology (IACST).
 - **Disciplinary Focus:** Ludology, Game Design, Spatial Narratology.
 - **Methodology & Theoretical Framework:** Structural and complex-network analysis of map layouts, traversal dependencies, and narrative gating in Metroidvania games, contrasting *Hollow Knight* with *Hollow Knight: Silksong*.
 - **Core Findings & Analytical Relevance:** Zhang demonstrates that backtracking in Metroidvania games operates as a narrative delivery mechanism rather than a mechanical obstacle. In *Hollow Knight*, returning to previously explored chambers with new traversal abilities reveals new historical strata (e.g., discovering the infected state of the Crossroads). In *Silksong*, the delivery-based Wishes system and Bellway network tie backtracking directly to communal rebuilding, social intimacy, and the lived relationships of Pharloom's lower strata.
@@ -124,7 +124,7 @@
 ### Summers, T. (2016). *Understanding video game music*. Cambridge University Press.
 - **Annotation:** Investigates video game music as an interactive, adaptive narrative system. Informs our analysis of Christopher Larkin's adaptive leitmotifs, dynamic instrumentation shifts, and structural silences across Hallownest and Pharloom.
 
-### Larkin, C. (2020). *Christopher Larkin on the haunting, melancholic scores of Hollow Knight and Silksong* [Interview by J. Trevethan]. *Bandcamp Daily*. https://daily.bandcamp.com/features/christopher-larkin-hollow-knight-silksong-interview
+### Larkin, C. (2020). *Christopher Larkin Doesn't Score Video Games, He Creates Worlds* [Interview by Casey Jarman]. *Bandcamp Daily*. https://daily.bandcamp.com/
 - **Annotation:** Primary source interview with composer Christopher Larkin. Details his deliberate choice of live chamber instrumentation (solo viola, cello, piano, harp), dynamic layering, and melodic continuity between Hallownest's subterranean grief and Pharloom's choral, liturgical, and rhythmic string arrangements.
 
 ### Team Cherry. (2014). *Introducing Hollow Knight*. Team Cherry Developer Blog. https://www.teamcherry.com.au/blog/introducing-hollow-knight

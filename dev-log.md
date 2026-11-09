@@ -62,3 +62,13 @@
 - Fixed Ludum Dare historical chronology in `20_FULL_RESEARCH_PAPER.md` (Ludum Dare 27: August 2013; Ludum Dare 29: April 2014).
 - Implemented and executed automated testing script `tools/audit.py` to audit word counts, citation presence, honesty labels, and zero em-dashes across all Markdown files.
 - Replaced all em-dashes across the repository with appropriate colons, hyphens, commas, or parentheses.
+
+## [2026-11-09T13:47:00+06:00] - Phase 1 Priority Source Verification and Manuscript Alignment
+- Verified Bohan Zhang (2026) source metadata: authored at Shanghai University of Engineering Science, presented at 9th International Conference on Culture Technology (ICCT 2026), organized by IACST. Updated `references.bib` and `03_ANNOTATED_BIBLIOGRAPHY.md`.
+- Verified Jan Wysocki (2026) review in JRFM Vol. 12 No. 1, pages 161–164. Calibrated citation scope to religious symbolism, pilgrimage, and liturgical judgment.
+- Verified Abraham U. Morales-Primo (2026) in Journal of Geek Studies Vol. 13 No. 1, pages 29–36 (DOI: 10.5281/zenodo.19487722). Corrected CLM-007 and CLM-015 to remove fabricated frame data and laboratory biopolymer claims, focusing strictly on qualitative spider hunting comparisons (spitting spiders and bolas spiders).
+- Created ten comprehensive source verification dossiers in `verification/`.
+- Integrated all four previously unreferenced bibliography items into `20_FULL_RESEARCH_PAPER.md` (Wolf 2012 in Section 3.1, Nagel 1979 and Suits 1978 in Section 18.2, and normalized Fernandez-Vara 2011).
+- Expanded Section 19.3 to address all five Devil's Advocate challenges (including the intentionality of the Void and Hornet's voiced persona).
+- Removed the unverified 90% ACMI statistic in Section 19.3, substituting verified curatorial documentation of Team Cherry's world-building design binders.
+- Re-executed `tools/audit.py`: 38 of 38 bibliography entries referenced, zero unreferenced sources, zero em-dashes, and zero false independence/PASS claims.

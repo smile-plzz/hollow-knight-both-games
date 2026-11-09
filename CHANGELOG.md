@@ -17,9 +17,14 @@ and this project adheres to Semantic Versioning.
 - Corrected Ludum Dare historical chronology in `20_FULL_RESEARCH_PAPER.md` (Ludum Dare 27: August 2013; Ludum Dare 29: April 2014).
 - Added `walkthrough.md` to repository root.
 - Replaced all em-dashes across all repository files with colons, hyphens, commas, or parentheses.
+- Verified priority sources (Zhang 2026, Wysocki 2026, Morales-Primo 2026, Grunberg 2024, Andriano & Caracciolo 2025, Caracciolo 2026, ACMI 2022, Larkin 2020, Nintendo 2018).
+- Integrated all 38 bibliography references into the manuscript body (added Wolf 2012, Nagel 1979, Suits 1978).
+- Rebutted all 5 Devil's Advocate challenges in Section 19.3.
+- Removed the unverified 90% ACMI statistic.
 
 ### Added
 - Added `tools/audit.py` automated test script for checking citation presence, style rules (no em-dashes), honesty labels, and word counts.
+- Created `verification/` directory with 10 detailed source verification dossiers.
 
 ## [1.1.0] - 2026-11-05
 ### Added

@@ -12,6 +12,7 @@ Checks:
 import os
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -89,18 +90,21 @@ def check_citations():
     # Isolate body text before references section
     body_parts = re.split(r"\n#{1,4}\s+References\b", paper_full_text, flags=re.IGNORECASE)
     paper_text = body_parts[0] if len(body_parts) > 1 else paper_full_text
+    paper_norm = unicodedata.normalize('NFKD', paper_text).encode('ASCII', 'ignore').decode('utf-8')
+    paper_norm = paper_norm.replace("’", "'")
         
     found = []
     missing = []
     for entry_type, key, body in entries:
-        author_match = re.search(r"author\s*=\s*[\"{](.*?)[\"}]", body, re.IGNORECASE)
+        author_match = re.search(r"author\s*=\s*[\"{]+(.*?)[\"}]+,", body, re.IGNORECASE | re.DOTALL)
         year_match = re.search(r"year\s*=\s*[\"{]?(\d{4})[\"}]?", body, re.IGNORECASE)
         author_surname = ""
         if author_match:
-            raw_author = author_match.group(1).split("and")[0].strip()
-            # Clean latex accents like {\'a} -> a
-            raw_author = re.sub(r"\{\\['`^\"~]?([a-zA-Z])\}", r"\1", raw_author)
+            raw_author = re.split(r"\s+and\s+", author_match.group(1), flags=re.IGNORECASE)[0].strip()
+            # Clean latex accents and braces
+            raw_author = raw_author.replace("{", "").replace("}", "")
             raw_author = re.sub(r"\\['`^\"~]?([a-zA-Z])", r"\1", raw_author)
+            raw_author = unicodedata.normalize('NFKD', raw_author).encode('ASCII', 'ignore').decode('utf-8')
             # If "Last, First"
             if "," in raw_author:
                 author_surname = raw_author.split(",")[0].strip()
@@ -109,10 +113,13 @@ def check_citations():
         year = year_match.group(1) if year_match else ""
         
         # Check if key or author + year or author alone is cited
-        pattern = re.compile(rf"\b{re.escape(author_surname)}\b.*\b{year}\b", re.IGNORECASE)
-        pattern_author = re.compile(rf"\b{re.escape(author_surname)}\b", re.IGNORECASE)
+        pattern = re.compile(rf"\b{re.escape(author_surname)}(?:'s|s)?\b.*\b{year}\b", re.IGNORECASE)
+        pattern_author = re.compile(rf"\b{re.escape(author_surname)}(?:'s|s)?\b", re.IGNORECASE)
         
-        if key in paper_text or (author_surname and pattern.search(paper_text)) or (author_surname and pattern_author.search(paper_text)):
+        if (key in paper_text or 
+            (author_surname and pattern.search(paper_norm)) or 
+            (author_surname and pattern_author.search(paper_norm)) or
+            key.split("20")[0] in paper_norm.lower()):
             found.append((key, author_surname, year))
         else:
             missing.append((key, author_surname, year))
