@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 03 (Silksong): Grand Mother Silk and Silk as a Cosmological Force"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 03 (Silksong): Grand Mother Silk and Silk as a Cosmological Force
 
 - **Topic:** Theocratic Matriarchy, Silk Metaphysics, and Somatic Extraction

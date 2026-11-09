@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 10: The Grimm Troupe and the Nightmare Realm"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 10: The Grimm Troupe and the Nightmare Realm
 
 - **Topic:** Nomadic Rituals, Fire Parasitism, and the Nightmare Heart

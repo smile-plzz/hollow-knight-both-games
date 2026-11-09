@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 04 (Silksong): The Weavers and Their Ancestral Fate in Pharloom"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 04 (Silksong): The Weavers and Their Ancestral Fate in Pharloom
 
 - **Topic:** The Weaver Guild, Cultural Exodus, and the Cradle of Threads

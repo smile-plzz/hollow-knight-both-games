@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 09 (Silksong): The Guild and Merchant Economy and the Bell Beast"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 09 (Silksong): The Guild and Merchant Economy and the Bell Beast
 
 - **Topic:** Commercial Guilds, Transit Infrastructure, and the Bell Beast

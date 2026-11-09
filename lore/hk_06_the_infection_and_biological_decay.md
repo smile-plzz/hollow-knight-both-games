@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 06: The Infection and Biological Decay"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 06: The Infection and Biological Decay
 
 - **Topic:** The Infection, Ophiocordyceps Parasitism, and Loss of Agency

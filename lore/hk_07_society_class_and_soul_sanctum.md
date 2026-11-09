@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 07: Society, Class, and the Soul Sanctum"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 07: Society, Class, and the Soul Sanctum
 
 - **Topic:** Urban Hierarchy, Feudal Inequality, and the Atrocities of Soul Science

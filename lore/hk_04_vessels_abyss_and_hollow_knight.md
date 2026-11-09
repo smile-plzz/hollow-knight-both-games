@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 04: The Vessel Program, the Abyss, and the Hollow Knight"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 04: The Vessel Program, the Abyss, and the Hollow Knight
 
 - **Topic:** Eugenics, Sacrificial Utilitarianism, and the Tragedy of the Hollow Knight

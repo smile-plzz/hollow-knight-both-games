@@ -1,3 +1,13 @@
+---
+title: "Systematic Factions and Societies Register"
+document_type: "character_dossier"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Systematic Factions and Societies Register
 
 ## Overview and Source Basis

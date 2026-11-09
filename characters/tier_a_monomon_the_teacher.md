@@ -1,3 +1,13 @@
+---
+title: "Character Dossier: Monomon the Teacher (Tier A)"
+document_type: "character_dossier"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Character Dossier: Monomon the Teacher (Tier A)
 
 - **Name:** Monomon the Teacher

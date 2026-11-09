@@ -99,7 +99,7 @@ Team Cherry has consistently maintained an **inclusive, canon-agnostic design ph
 
 | Lore Element | Empirical In-Game / Developer Evidence | Analytical Interpretation | Canon Certainty Tier | Competing Hypotheses |
 |---|---|---|---|---|
-| **Hornet's Parentage** | Midwife dialogue, White Lady dialogue, Herrah dream sequence | Daughter of Pale King (Wyrm) and Herrah (Spider) | **Tier 1 (Confirmed Canon)** | None (Unanimously established) |
+| **Hornet's Parentage** | Midwife dialogue, White Lady dialogue, Herrah dream sequence | Daughter of Pale King (Wyrm) and Herrah (Spider) | **Tier 1 (Confirmed Canon)** | None (Confirmed canon across all sources) |
 | **Weaver Origin & Pharloom** | Shellwood tablets, Weavenest shrines, Silksong dialogue | Weavers originated in Pharloom; faction fled to Deepnest | **Tier 1 (Confirmed Canon)** | Early theory that Weavers were indigenous only to Hallownest (Refuted) |
 | **Sequel Status of Silksong** | Team Cherry 2019 announcement, Hornet in-game dialogue | Takes place chronologically *after* the fall of Hallownest | **Tier 1 (Confirmed Canon)** | Prequel hypothesis (Refuted by official canon) |
 | **Universal Nature of the Void** | Act III Underworks Void Lake, Void-stained threads | Void is a pan-continental subterranean layer, not exclusive to Hallownest | **Tier 1 (Confirmed Canon)** | Void was artificially created by Pale King (Refuted; he merely harvested it) |

@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 02: The Wyrm, the Radiance, and the Higher Beings"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 02: The Wyrm, the Radiance, and the Higher Beings
 
 - **Topic:** Higher Beings, Metamorphosis, and Deific Rivalry

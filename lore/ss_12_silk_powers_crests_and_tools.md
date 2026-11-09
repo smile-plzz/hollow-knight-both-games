@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 12 (Silksong): Silk Powers, Crest Systems, and Tool Crafting"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 12 (Silksong): Silk Powers, Crest Systems, and Tool Crafting
 
 - **Topic:** Kinesthetic Progression, Crest Archetypes, and Artisan Mechanics

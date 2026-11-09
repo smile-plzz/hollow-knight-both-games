@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 10 (Silksong): The Three-Act Structure and Narrative Pacing"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 10 (Silksong): The Three-Act Structure and Narrative Pacing
 
 - **Topic:** Narrative Architecture, Act Progression, and Ludonarrative Turns

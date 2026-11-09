@@ -8,7 +8,7 @@ and this project adheres to Semantic Versioning.
 ## [1.2.0] - 2026-11-09
 ### Changed
 - Executed Phase 0 Triage and Honesty Pass per handoff directives from Ismail.
-- Relabeled `21_PEER_REVIEW.md` to "Simulated multi-perspective review (AI)" and `22_REVISION_AND_INTEGRITY_REPORT.md` to "AI self-audit and revision notes (not independent)", removing all unearned "PASS" certifications.
+- Relabeled `21_PEER_REVIEW.md` to "Simulated multi-perspective review (AI)" and `22_REVISION_AND_INTEGRITY_REPORT.md` to "AI self-audit and revision notes (not independent)", removing all unearned self-certifications.
 - Updated authorship lines across `20_FULL_RESEARCH_PAPER.md` and `23_PROCESS_RECORD.md` to credit Ismail as lead author/curator and the AI as drafting assistant.
 - Added natural story-flow AI disclosure to `README.md` and `20_FULL_RESEARCH_PAPER.md`.
 - Added working notes notice banners across supporting files `05` through `18`.

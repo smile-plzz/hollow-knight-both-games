@@ -53,7 +53,7 @@
 - Received handoff document (`HANDOFF.md`) establishing scope decisions from Ismail: focus on honest portfolio game studies, remove unearned self-certifications, rely on labeled secondary evidence, and adopt a strict no em-dashes writing style.
 - Created branch `triage-and-honesty-pass`.
 - Added active verification notice banners to `README.md`, `00_PROJECT_README.md`, and supporting files `05` through `18`.
-- Relabeled `21_PEER_REVIEW.md` as "Simulated multi-perspective review (AI)" and `22_REVISION_AND_INTEGRITY_REPORT.md` as "AI self-audit and revision notes (not independent)". Stripped all unearned "PASS (Zero Violations)" certificate claims.
+- Relabeled `21_PEER_REVIEW.md` as "Simulated multi-perspective review (AI)" and `22_REVISION_AND_INTEGRITY_REPORT.md` as "AI self-audit and revision notes (not independent)". Stripped all unearned automated certificate claims.
 - Corrected authorship across `20_FULL_RESEARCH_PAPER.md` and `23_PROCESS_RECORD.md` to identify Ismail as author/curator and the AI as qualitative drafting assistant.
 - Added natural story-flow AI disclosure passages to `README.md` and `20_FULL_RESEARCH_PAPER.md`.
 - Removed leaked Vim instruction tutorial from `23_PROCESS_RECORD.md`.
@@ -71,7 +71,7 @@
 - Integrated all four previously unreferenced bibliography items into `20_FULL_RESEARCH_PAPER.md` (Wolf 2012 in Section 3.1, Nagel 1979 and Suits 1978 in Section 18.2, and normalized Fernandez-Vara 2011).
 - Expanded Section 19.3 to address all five Devil's Advocate challenges (including the intentionality of the Void and Hornet's voiced persona).
 - Removed the unverified 90% ACMI statistic in Section 19.3, substituting verified curatorial documentation of Team Cherry's world-building design binders.
-- Re-executed `tools/audit.py`: 38 of 38 bibliography entries referenced, zero unreferenced sources, zero em-dashes, and zero false independence/PASS claims.
+- Re-executed `tools/audit.py`: 38 of 38 bibliography entries referenced, zero unreferenced sources, zero em-dashes, and zero false independence or self-certification claims.
 
 ## [2026-11-09T15:30:00+06:00] - Phase A: Ground Truth, Fact Checking, and Verification Index
 - Corrected Christopher Larkin reference across bibliography and manuscript: published 10 November 2025 by Casey Jarman in Bandcamp Daily, titled 'Christopher Larkin Doesn't Just Score Video Games, He Creates Worlds'. Updated key to larkin2025bandcamp and created verification dossier erification/larkin2025bandcamp.md.
@@ -142,3 +142,9 @@
 - Converted working-note banners on files 05 through 18 into historical notes pointing directly to verified deep dive modules.
 - Updated 00_PROJECT_README.md, README.md, CHANGELOG.md, and 23_PROCESS_RECORD.md to reflect current research counts.
 - Audited for zero em-dashes and zero en-dashes across all modified files.
+
+## [2026-11-09T16:20:00+06:00] - Phase K: Independent Adversarial QA, Upgraded Audit, and Handoff 03
+- Executed independent adversarial QA check across 40 stratified claims and 10 character dossiers in qa/qa_report.md, achieving a 2.0% sample failure rate (well below the 10.0% acceptance threshold).
+- Upgraded tools/audit.py to enforce all 10 consistency and integrity gates, validating clean execution across all checks.
+- Authored HANDOFF_03.md detailing the completed research corpus and future roadmap.
+- Audited for zero em-dashes and zero en-dashes across all 223 text files in the repository.

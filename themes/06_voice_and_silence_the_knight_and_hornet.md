@@ -1,3 +1,13 @@
+---
+title: "Thematic Essay 06: Voice and Silence: The Knight and Hornet"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Thematic Essay 06: Voice and Silence: The Knight and Hornet
 
 ## Introduction: The Acoustic Dialectic of Two Protagonists

@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 05 (Silksong): The High Citadel, Spiritual Pilgrimage, and Theocratic Religion"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 05 (Silksong): The High Citadel, Spiritual Pilgrimage, and Theocratic Religion
 
 - **Topic:** Theocratic Institutions, Somatic Pilgrimage, and Choral Subjugation

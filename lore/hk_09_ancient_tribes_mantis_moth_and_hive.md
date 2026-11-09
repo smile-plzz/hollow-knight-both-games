@@ -1,3 +1,13 @@
+---
+title: "Lore Thread 09: Sovereign Cultures: Mantis Tribe, Moth Tribe, and the Hive"
+document_type: "lore_deep_dive"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Lore Thread 09: Sovereign Cultures: Mantis Tribe, Moth Tribe, and the Hive
 
 - **Topic:** Regional Sovereignty, Cultural Pluralism, and Resistance to Autocracy

@@ -1,3 +1,13 @@
+---
+title: "Cross-Game Lore and Historical Continuity: Hallownest and Pharloom"
+document_type: "timeline_synthesis"
+project: "Hollow Knight and Hollow Knight: Silksong Comparative Research Suite"
+status: "Verified Canon"
+date: "2026-11-09"
+author: "Lead Lore Researcher"
+license: "CC-BY-4.0"
+---
+
 # Cross-Game Lore and Historical Continuity: Hallownest and Pharloom
 
 ## Epistemic Framing and Source Basis
