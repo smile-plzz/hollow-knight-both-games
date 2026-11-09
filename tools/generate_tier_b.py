@@ -132,3 +132,4 @@ for spec in tier_b_specs:
         f.write(content)
 
 print(f'Generated {len(tier_b_specs)} Tier B character dossiers')
+

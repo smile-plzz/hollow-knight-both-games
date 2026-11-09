@@ -269,3 +269,4 @@ for fn, title, text in essays:
         f.write(text.strip() + '\n')
 
 print(f'Successfully generated all {len(essays)} thematic essays in themes/')
+
