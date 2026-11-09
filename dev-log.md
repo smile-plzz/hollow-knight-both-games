@@ -95,3 +95,10 @@
 - Resolved and reconciled all proper nouns and conceptual conduits flagged in Section 1.3 of HANDOFF_02_LORE_DEEP_DIVE.md (Forge-Daughter, Eva, Choir Master, Cogwork Dancers, Black Thread Marionettes, Puppet-Pilgrims, Lost Lace, Last Judge, Grand Mother Silk, First Weaver, Weavers Migration, Moth Tribe apostasy, Soul Sanctum schism, Void lake contamination, and narrative act progression).
 - Produced data/hallucination_sweep.md documenting confirmation status, canon roles, and resolution actions.
 - Audited for zero em-dashes and zero en-dashes across all files.
+
+## [2026-11-09T15:45:00+06:00] - Phase D: Timelines and Cross-Game Continuity
+- Created 	imelines/hallownest_timeline.md documenting eight historical eras from the Primordial Abyss to the Godhome resolutions, mapping 26 atomic claims (CLM-HN-001 to CLM-HN-026) to secondary sources and including an interactive Mermaid sequence.
+- Created 	imelines/pharloom_timeline.md tracing Pharloom's history from the First Weaver and Citadel rise through Hornet's three-act ascent, mapping 22 atomic claims (CLM-PH-001 to CLM-PH-022) with full source attribution.
+- Created 	imelines/cross_game_continuity.md establishing a structured continuity register across protagonist lineage, weaver migration, soul/silk economies, nail/needle kinetics, and spatial inversions (claims CLM-CC-001 to CLM-CC-008).
+- Included verified release and production strips across all timelines (Ludum Dare 27 in August 2013, Ludum Dare 29 in April 2014, Kickstarter in late 2014, HK launch in 2017, Silksong reveal in 2019, launch in September 2025, and Sea of Sorrow announcement in December 2025).
+- Audited for zero em-dashes and zero en-dashes across all generated files.
