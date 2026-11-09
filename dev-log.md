@@ -89,3 +89,9 @@
 - All source rows include explicit tier classification (S1 to S4), author/organization, checkable URL/DOI, publication date, retrieval date (2026-11-09), notes, and operational status.
 - Created 76 modular working extract files in data/extracts/<source_id>.md providing analytical summaries and secondary verification coordinates.
 - Audited for style rules: zero em-dashes and zero en-dashes across all generated files.
+
+## [2026-11-09T15:40:00+06:00] - Phase C: Entity Registry and Hallucination Sweep
+- Constructed data/entities.csv comprising 236 verified entities across both games (123 Hollow Knight, 106 Silksong, 7 cross-game shared entities).
+- Resolved and reconciled all proper nouns and conceptual conduits flagged in Section 1.3 of HANDOFF_02_LORE_DEEP_DIVE.md (Forge-Daughter, Eva, Choir Master, Cogwork Dancers, Black Thread Marionettes, Puppet-Pilgrims, Lost Lace, Last Judge, Grand Mother Silk, First Weaver, Weavers Migration, Moth Tribe apostasy, Soul Sanctum schism, Void lake contamination, and narrative act progression).
+- Produced data/hallucination_sweep.md documenting confirmation status, canon roles, and resolution actions.
+- Audited for zero em-dashes and zero en-dashes across all files.
