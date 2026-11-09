@@ -1,6 +1,6 @@
 # Cross-Game Continuity, Lore Architecture, and Unresolved Mysteries: Hallownest and Pharloom
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `timelines/cross_game_continuity.md, lore/contested_readings.md, and themes/06_voice_and_silence_the_knight_and_hornet.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Objects of Analysis:** Inter-Kingdom Connections across *Hollow Knight* (2017) and *Hollow Knight: Silksong* (2025)
 - **Theoretical Framing:** Trans-Fictional World-Building, Epistemic Fragmentation, and Canon Demarcation

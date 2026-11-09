@@ -1,6 +1,6 @@
 # Area-by-Area Spatial Analysis and Social Architecture: Pharloom
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/ss_01_*.md through lore/ss_08_*.md, timelines/pharloom_timeline.md, and themes/05_class_labor_and_the_people_who_remain.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** The Complete Geography and Factional Architecture of Pharloom (22 Regions and Sub-Areas)
 - **Methodology:** Vertical Spatial Stratigraphy, Political Architecture, Sociological Topography

@@ -134,3 +134,11 @@
 - Created lore/contested_readings.md analyzing twenty-two significant debates across both games with explicit positions, canonical evidence, source citations, and epistemic certainty assessments.
 - Created lore/FAQ.md answering forty-six community and canonical questions across seven thematic domains (Protagonists, Hallownest Origins, Calamity and Infection, Void and Abyss, Pharloom and Silksong Narrative, Mechanics and Economies, Canon and Chronology) with concise 3 to 8 sentence answers citing atomic claim IDs.
 - Audited for zero em-dashes and zero en-dashes across all generated files.
+## [2026-11-09T16:15:00+06:00] - Phase J: Master Claims Integration and Paper Update
+- Compiled master evidence ledger in data/claims.csv featuring 598 atomic claims spanning Hollow Knight, Silksong, timelines, manuscript assertions, and character dossiers.
+- Rebuilt 19_CLAIM_AND_EVIDENCE_MATRIX.csv with 598 rows, replacing the preliminary 20-row table.
+- Mapped every [Tier 1] and [Tier 2] tag in 20_FULL_RESEARCH_PAPER.md to unique claim identifiers (CLM-MS-001 to CLM-MS-223) and added explicit Tier 3 theoretical tags (CLM-MS-224 to CLM-MS-245).
+- Enriched manuscript sections 6, 7, and 8 with academic citations and secondary references.
+- Converted working-note banners on files 05 through 18 into historical notes pointing directly to verified deep dive modules.
+- Updated 00_PROJECT_README.md, README.md, CHANGELOG.md, and 23_PROCESS_RECORD.md to reflect current research counts.
+- Audited for zero em-dashes and zero en-dashes across all modified files.

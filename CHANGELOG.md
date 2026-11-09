@@ -51,3 +51,11 @@ and this project adheres to Semantic Versioning.
 - 5-seat independent peer review report (`21_PEER_REVIEW.md`) including Devil's Advocate contrarian challenge.
 - Academic integrity verification and revision report (`22_REVISION_AND_INTEGRITY_REPORT.md`) passing Lu's (2026) 7-mode AI failure audit.
 - Master academic process record (`23_PROCESS_RECORD.md`) with collaboration accounting and Vim large-file navigation instruction.
+## [2.1.0] - 2026-11-09 - Phase J Integration and Master Evidence Consolidation
+### Added
+- Master claims ledger in `data/claims.csv` comprising 598 atomic claims with entity IDs, certainty ratings, and source citations.
+- Complete evidence matrix rebuild in `19_CLAIM_AND_EVIDENCE_MATRIX.csv` expanding from 20 to 598 rows.
+- Full claim tag mapping in `20_FULL_RESEARCH_PAPER.md` linking every Tier 1 and Tier 2 statement to unique claim IDs (`CLM-MS-001` through `CLM-MS-223`), plus explicit Tier 3 theoretical interpretations (`CLM-MS-224` through `CLM-MS-245`).
+- Added missing source definitions to `data/sources.csv` bringing total verified sources to 82.
+- Enhanced academic and secondary citations across manuscript Sections 6, 7, and 8.
+- Converted working-note banners in files 05 through 18 to explicit superseded notices pointing to verified deep dive modular files.

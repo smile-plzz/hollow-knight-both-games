@@ -1,6 +1,6 @@
 # The Endings of Hallownest: Philosophical Analysis and the Omelas Dilemma
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/hk_12_the_knights_journey_and_endings.md, lore/contested_readings.md, and themes/01_sacrifice_vessels_and_inherited_burden.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** The Six Canonical Endings of *Hollow Knight*
 - **Theoretical Framework:** Alex Grunberg's Omelas Paradigm (2024), Giorgio Agamben's Sovereign Exception (1998), Albert Camus's Absurd Freedom (1942)

@@ -8,8 +8,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 
 def clean_em_dashes(text: str) -> str:
     # Replace em-dashes with colon, comma, or hyphen cleanly
-    text = text.replace(" — ", " - ")
-    text = text.replace("—", " - ")
+    text = text.replace(" \u2014 ", " - ")
+    text = text.replace("\u2014", " - ")
     return text
 
 def process_paper():

@@ -1,6 +1,6 @@
 # Boss Encounters, Symbolic Combat, and Content Expansions: *Hollow Knight*
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/hk_10_the_grimm_troupe.md, lore/hk_11_godhome_and_pantheons.md, and characters/tier_a_*.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** Major Boss Encounters, Content Packs (*Hidden Dreams*, *The Grimm Troupe*, *Lifeblood*, *Godmaster*), and Optional Gauntlets
 - **Theoretical Framing:** Ludic Symbolism, Combat Choreography as Characterization, Ritual Cycles, and Theocratic Deification

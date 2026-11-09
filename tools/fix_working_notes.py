@@ -22,15 +22,15 @@ def process_file(filepath: Path):
     for idx, line in enumerate(lines):
         # Replace em-dashes
         # Common patterns:
-        # "word—word" -> "word: word" or "word, word" depending on context, or "word - word"
-        # " — " -> " - "
-        # "—" -> " - " or ": "
-        # In quotes: "* — The Pale King" -> "*: The Pale King" or "* (The Pale King)"
+        # "word\u2014word" -> "word: word" or "word, word" depending on context, or "word - word"
+        # " \u2014 " -> " - "
+        # "\u2014" -> " - " or ": "
+        # In quotes: "* \u2014 The Pale King" -> "*: The Pale King" or "* (The Pale King)"
         cleaned_line = line
         if "\u2014" in cleaned_line:
             # Handle specific patterns cleanly
-            cleaned_line = cleaned_line.replace(" — ", " - ")
-            cleaned_line = cleaned_line.replace("—", " - ")
+            cleaned_line = cleaned_line.replace(" \u2014 ", " - ")
+            cleaned_line = cleaned_line.replace("\u2014", " - ")
             
         new_lines.append(cleaned_line)
         

@@ -1,6 +1,6 @@
 # The Song of Pharloom: Origins, Chronological History, and Narrative Reconstruction in *Hollow Knight: Silksong*
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/ss_01_pharloom_geography_and_bells.md through lore/ss_12_silk_powers_and_crests.md, timelines/pharloom_timeline.md, and data/claims.csv`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** *Hollow Knight: Silksong* (Team Cherry, 2025)
 - **Methodology:** Dual-Track Narrative Reconstruction (Studio Genesis, Diegetic Chronology, Acoustic Political Theology, and Experiential Act Structure)

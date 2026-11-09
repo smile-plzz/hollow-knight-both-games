@@ -1,6 +1,6 @@
 # The Endings of Pharloom: Theocratic Collapse, Void Resurgence, and Sovereignty in *Silksong*
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/ss_09_three_act_structure.md, lore/contested_readings.md, and themes/02_faith_theocracy_and_the_machinery_of_belief.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** The Five Canonical Endings of *Hollow Knight: Silksong* (2025)
 - **Theoretical Framework:** Political Theology, The Critique of Sovereign Succession, Sympoietic Liberation

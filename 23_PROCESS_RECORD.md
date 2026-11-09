@@ -100,3 +100,11 @@ Measured via `tools/audit.py` on 2026-11-09:
 ## 4. Current Status and Roadmap
 
 The research suite has completed its initial drafting phase. It is currently in Phase 0 (Triage and Honesty Pass) and Phase 1 (Source Verification). No claim of external independence, peer certification, or unverified completion is asserted. All work is proceeding toward an honest, checkable portfolio presentation for Ismail.
+
+## Phase J: Master Claims Integration and Evidence Consolidation (2026-11-09)
+- Compiled master claims ledger `data/claims.csv` totaling 598 atomic claims (144 HK deep dive, 144 Silksong deep dive, 56 timeline, 245 manuscript, 65 character and relational claims).
+- Rebuilt `19_CLAIM_AND_EVIDENCE_MATRIX.csv` directly from `data/claims.csv` with full 8-column schema across all 598 claims.
+- Mapped all 223 Tier 1 and Tier 2 statements in `20_FULL_RESEARCH_PAPER.md` to unique claim IDs and integrated Tier 3 theoretical tags.
+- Augmented manuscript sections 6 to 8 with comprehensive source citations.
+- Converted preliminary working-note banners across files 05 to 18 into explicit superseded notices pointing to deep dive files.
+- Reconciled all source IDs in `data/sources.csv` to 82 verified entries.

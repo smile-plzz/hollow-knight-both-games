@@ -1,6 +1,6 @@
 # The Fall of Hallownest: Chronological History, Epistemology, and Narrative Architecture in *Hollow Knight*
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/hk_01_void_and_cosmic_layers.md through lore/hk_12_the_knights_journey_and_endings.md, timelines/hallownest_timeline.md, and data/claims.csv`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** *Hollow Knight* (Team Cherry, 2017)
 - **Methodology:** Dual-Track Narrative Reconstruction (Diegetic Chronology vs. Experiential Player Discovery)

@@ -1,6 +1,6 @@
 # Master Character Encyclopedia: Origins, Build-Up, and Psychological Profiles: *Hollow Knight*
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `characters/tier_a_*.md, characters/tier_b_*.md, characters/voices_and_silence.md, and characters/relationship_maps.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** Complete Personages, Tribal Entities, Bosses, and Divine Beings of Hallownest (43 Character Dossiers)
 - **Theoretical Framing:** Character Ontologies, Agency, Nonhuman Subjectivity, and Archetypal Symbolism

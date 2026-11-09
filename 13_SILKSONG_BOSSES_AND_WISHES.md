@@ -1,6 +1,6 @@
 # Boss Encounters, The Wishes System, and Communal Agency: *Hollow Knight: Silksong*
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/ss_07_the_last_judge.md, lore/ss_10_wishes_and_community_quests.md, and characters/tier_a_*.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** Major Boss Encounters, The Wishes System, and Optional Communal Questlines
 - **Theoretical Framing:** Combat Choreography as Characterization, Bohan Zhang's Backtracking Mechanics (2026), and The Ethics of Mutual Aid

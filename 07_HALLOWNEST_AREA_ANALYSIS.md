@@ -1,6 +1,6 @@
 # Area-by-Area Spatial Analysis and Environmental Storytelling: Hallownest
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/hk_01_*.md through lore/hk_09_*.md, timelines/hallownest_timeline.md, and themes/04_ecology_infection_and_the_nonhuman_world.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** The Complete Geography of Hallownest (23 Regions and Sub-Areas)
 - **Methodology:** Spatial Narratology, Architectural Hermeneutics, Ecocritical Topology

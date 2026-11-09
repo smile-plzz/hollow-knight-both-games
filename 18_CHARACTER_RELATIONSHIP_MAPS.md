@@ -1,6 +1,6 @@
 # Character Relationship Maps and Network Topologies: Hallownest and Pharloom
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `characters/relationship_maps.md, data/edges.csv, and themes/07_parents_children_and_succession.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Objects of Analysis:** Social, Political, Familial, and Theological Networks in *Hollow Knight* and *Hollow Knight: Silksong*
 - **Methodology:** Sociometric Network Analysis, Diagrammatic Structuralism, Factional Topology

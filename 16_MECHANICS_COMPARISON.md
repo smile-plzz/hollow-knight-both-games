@@ -1,6 +1,6 @@
 # Comparative Ludic Systems and Mechanical Ontologies: Nail vs. Needle, Soul vs. Silk
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `lore/ss_12_silk_powers_and_crests.md, timelines/cross_game_continuity.md, and themes/08_ruins_and_return_archaeology_and_backtracking.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Objects of Analysis:** Core Gameplay Mechanics across *Hollow Knight* (2017) and *Hollow Knight: Silksong* (2025)
 - **Theoretical Framing:** Procedural Rhetoric (Bogost, 2007), Ergodic Embodiment (Aarseth, 1997; Calleja, 2011), Ludonarrative Integration

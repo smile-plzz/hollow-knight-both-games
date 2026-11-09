@@ -1,6 +1,6 @@
 # The Chitinous Sacred: Ecology, Entomology, Political Theology, and Material Symbolism
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `themes/02_faith_theocracy_and_the_machinery_of_belief.md, themes/04_ecology_infection_and_the_nonhuman_world.md, and lore/contested_readings.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Objects of Analysis:** Comparative Systems of Biology, Divinity, Ritual, and Material Culture across *Hollow Knight* and *Silksong*
 - **Theoretical Framing:** Nonhuman Ecologies (Morton, 2016; Chang, 2019), Eusocial Superorganisms (Wilson & Hölldobler, 1990), The Numinous (Otto, 1917), Sacred Geography (Eliade, 1959), Vital Materialism (Bennett, 2010), Sympoiesis (Haraway, 2016)

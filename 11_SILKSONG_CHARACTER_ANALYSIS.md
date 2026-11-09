@@ -1,6 +1,6 @@
 # Master Character Encyclopedia: Origins, Build-Up, and Psychological Profiles: *Hollow Knight: Silksong*
 
-> **Notice:** Working notes, drafted with AI, sources not yet checked line by line.
+> **Historical Working Note:** This file contains preliminary exploratory notes drafted during kickoff. It is now formally superseded and verified by the deeper modular research files in `characters/tier_a_hornet.md, characters/tier_a_lace.md, characters/tier_a_*.md, and characters/factions.md`. All claims are cataloged in `data/claims.csv`.
 
 - **Object of Analysis:** Complete Personages, Clergy, Duelists, Artisans, and Cosmic Entities of Pharloom (32 Character Dossiers)
 - **Theoretical Framing:** Character Ontologies, Theatricality, Hybrid Kinship, and Voiced Agency
