@@ -83,3 +83,9 @@
 - Rewrote Section 5.1 and 5.2 of 20_FULL_RESEARCH_PAPER.md to explicitly state desk-research protocols and secondary-confirmed canon boundaries.
 - Replaced all en-dashes and em-dashes across all Markdown files in the repository.
 - Successfully ran 	ools/audit.py.
+
+## [2026-11-09T15:35:00+06:00] - Phase B: Source Map and Fetch Cache
+- Constructed data/sources.csv comprising 76 cataloged sources (15 S1 developer dispatches, 25 S2 community wikis and press analyses, 31 S3 academic monographs and peer-reviewed articles, and 5 S4 community lore repositories).
+- All source rows include explicit tier classification (S1 to S4), author/organization, checkable URL/DOI, publication date, retrieval date (2026-11-09), notes, and operational status.
+- Created 76 modular working extract files in data/extracts/<source_id>.md providing analytical summaries and secondary verification coordinates.
+- Audited for style rules: zero em-dashes and zero en-dashes across all generated files.
